@@ -143,7 +143,7 @@
                         <img src="images/on_going_project/sggdeluxeimage-min.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">DE-LUXE DXP</h5>
+                        <h5 class="card-title text-primary">DE-LUXE DXP</h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails6" aria-expanded="false" aria-controls="propertyDetails4">
                             View Details
                         </button>
@@ -170,8 +170,7 @@
                         <img src="images/on_going_project/SG-City-79b-min.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signature Global City 79B
-                        </h5>
+                        <h5 class="card-title text-primary">Signature Global City 79B </h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails7" aria-expanded="false" aria-controls="propertyDetails4">
                             View Details
                         </button>

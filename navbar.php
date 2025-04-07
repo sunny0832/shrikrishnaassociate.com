@@ -25,9 +25,36 @@
 
     <!-- Customized Bootstrap Stylesheet -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Swiper CSS -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+
+<!-- Swiper JS -->
+<script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
+
 
     <!-- Template Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
+
+    <style>
+       .site-title {
+    font-size: 26px; /* Desktop view mein thoda bada */
+    font-weight: bold;
+}
+
+@media (max-width: 576px) {
+    .site-title {
+        font-size: 14px; /* Mobile view mein chhota hi rahe */
+        white-space: nowrap;
+    }
+
+    .navbar-brand .icon img {
+        width: 28px !important;
+        height: 28px !important;
+    }
+}
+
+
+        </style>
 </head>
 
 <body>
@@ -43,12 +70,13 @@
 
 <!-- Navbar Start -->
 <div class="container-fluid nav-bar bg-transparent">
-    <nav class="navbar navbar-expand-lg bg-white navbar-light py-0 px-4">
+    <nav class="navbar navbar-expand-lg bg-white navbar-light py-0 px-3">
         <a href="index.php" class="navbar-brand d-flex align-items-center text-center">
-            <div class="icon p-2 me-2">
-                <img class="img-fluid" src="images/SKA1.webp" alt="Icon" style="width: 30px; height: 30px;">
+            <div class="icon p-1 me-2">
+                <img class="img-fluid" src="images/SKA1.webp" alt="Logo" style="width: 35px; height: 35px;">
             </div>
-            <h1 class="m-0 text-primary">Shri Krishna Associate</h1>
+            <!-- Responsive text -->
+            <span class="navbar-text text-primary fw-bold site-title">Shri Krishna Associate</span>
         </a>
         <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -61,7 +89,7 @@
                     <div class="dropdown-menu rounded-0 m-0">
                         <a href="Latest_Residential_Properties.php" class="dropdown-item">Residential</a>
                         <a href="commercial.php" class="dropdown-item">Commercial</a>
-                        <a href="Ongoing_projects.php" class="dropdown-item">Ongoing projects</a>
+                        <a href="Ongoing_projects.php" class="dropdown-item">Ongoing Projects</a>
                         <a href="plots.php" class="dropdown-item">Plot</a>
                     </div>
                 </div>

@@ -1,6 +1,14 @@
 <?php include 'enquiry.php'; ?>
 <?php include 'navbar.php'; ?>
 
+<style>
+    @media (max-width: 576px) {
+        .testimonial-box {
+            height: auto !important;
+        }
+    }
+</style>
+
         <!-- Header Start -->
         <div class="container-fluid header bg-white p-0">
             <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
@@ -116,126 +124,121 @@
 
         <!-- Category Start -->
         <div class="container-xxl py-5">
-            <div class="container">
-                <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
-                    <h1 class="mb-3">Property Types</h1>
-                    <p>Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero dolor duo.</p>
-                </div>
-                <div class="row g-4">
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-apartment.png" alt="Icon">
-                                </div>
-                                <h6>Apartment</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+    <div class="container">
+        <div class="text-center mx-auto mb-5 wow fadeInUp" data-wow-delay="0.1s" style="max-width: 600px;">
+            <h1 class="mb-3">Property Types</h1>
+            <p>We offer a wide range of property types across Gurgaon, including apartments, villas, builder floors, offices, shops, and land. Backed by years of experience since 2014, our team helps clients find the perfect space—whether for living, working, or investment. With a focus on trust, transparency, and value, we ensure every property meets your unique needs.</p>
+
+        </div>
+        <div class="row g-4">
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-apartment.png" alt="Icon">
+                        </div>
+                        <h6>Apartment</h6>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-villa.png" alt="Icon">
-                                </div>
-                                <h6>Villa</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-villa.png" alt="Icon">
+                        </div>
+                        <h6>Villa</h6>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-house.png" alt="Icon">
-                                </div>
-                                <h6>Home</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-house.png" alt="Icon">
+                        </div>
+                        <h6>Home</h6>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-housing.png" alt="Icon">
-                                </div>
-                                <h6>Office</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-housing.png" alt="Icon">
+                        </div>
+                        <h6>Office</h6>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-building.png" alt="Icon">
-                                </div>
-                                <h6>Building</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-building.png" alt="Icon">
+                        </div>
+                        <h6>Building</h6>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-neighborhood.png" alt="Icon">
-                                </div>
-                                <h6>Townhouse</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-neighborhood.png" alt="Icon">
+                        </div>
+                        <h6>Townhouse</h6>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-condominium.png" alt="Icon">
-                                </div>
-                                <h6>Shop</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.5s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-condominium.png" alt="Icon">
+                        </div>
+                        <h6>Shop</h6>
                     </div>
-                    <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
-                        <a class="cat-item d-block bg-light text-center rounded p-3" href="">
-                            <div class="rounded p-4">
-                                <div class="icon mb-3">
-                                    <img class="img-fluid" src="img/icon-luxury.png" alt="Icon">
-                                </div>
-                                <h6>Garage</h6>
-                                <span>123 Properties</span>
-                            </div>
-                        </a>
+                </a>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.7s">
+                <a class="cat-item d-block bg-light text-center rounded p-3" href="">
+                    <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+                        <div class="icon mb-3">
+                            <img class="img-fluid" src="img/icon-luxury.png" alt="Icon">
+                        </div>
+                        <h6>Garage</h6>
                     </div>
-                </div>
+                </a>
             </div>
         </div>
+    </div>
+</div>
+ 
         <!-- Category End -->
 
 
         <!-- About Start -->
         <div class="container-xxl py-5">
-            <div class="container">
-                <div class="row g-5 align-items-center">
-                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
-                        <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                            <img class="img-fluid w-100" src="img/about.jpg">
-                        </div>
-                    </div>
-                    <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
-                        <h1 class="mb-4">#1 Place To Find The Perfect Property</h1>
-                        <p class="mb-4">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo magna dolore erat amet</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Tempor erat elitr rebum at clita</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Aliqu diam amet diam et eos</p>
-                        <p><i class="fa fa-check text-primary me-3"></i>Clita duo justo magna dolore erat amet</p>
-                        <a class="btn btn-primary py-3 px-5 mt-3" href="">Read More</a>
-                    </div>
+    <div class="container">
+        <div class="row g-5 align-items-center">
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
+                <div class="about-img position-relative overflow-hidden p-5 pe-0">
+                    <img class="img-fluid w-100" src="img/about.jpg" alt="About Us">
                 </div>
             </div>
+            <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
+                <h1 class="mb-4">Your Trusted Partner in Gurgaon Real Estate</h1>
+                <p class="mb-4">Since 2014, we’ve been helping people find their dream homes, smart investments, and ideal commercial spaces across Gurgaon. With deep local knowledge and a passion for real estate, we turn your vision into reality—whether you're buying, selling, or renting.</p>
+                <p><i class="fa fa-check text-primary me-3"></i>Expertise in residential, commercial & land properties</p>
+                <p><i class="fa fa-check text-primary me-3"></i>Personalized service & transparent deals</p>
+                <p><i class="fa fa-check text-primary me-3"></i>Over a decade of trusted real estate experience</p>
+                <a class="btn btn-primary py-3 px-5 mt-3" data-bs-toggle="modal" data-bs-target="#enquiryModal" href="#">Read More</a>
+            </div>
         </div>
+    </div>
+</div>
+
         <!-- About End -->
 
 
@@ -548,7 +551,7 @@
                   <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                       <div class="property-item rounded overflow-hidden">
                           <div class="position-relative overflow-hidden">
-                              <a href="ats-homekraft-sanctuary-105.php"><img class="img-fluid w-100" src="images/extra/img515.webp" alt="" style="height:270px; object-fit: cover;"></a>
+                              <a href="ats-homekraft-sanctuary-105.php"><img class="img-fluid w-100" src="images/extra/img515.jpg" alt="" style="height:270px; object-fit: cover;"></a>
                           </div>
                           <div class="p-4 pb-0">
                               <a class="d-block h5 mb-2" href="ats-homekraft-sanctuary-105.php">ATS Homekraft Sanctuary 105</a>
@@ -599,7 +602,42 @@
       
       <!-- OUR LUXURY PROJECTS end -->
       
-              <!-- Property List End -->
+<!--Our Delivered Projects-->
+<div style="max-width: 1200px; margin: 20px auto; padding: 20px; border-radius: 10px; background: transparent; text-align: center;">
+    <h2>Our Delivered Projects</h2><br>
+
+    <!-- Swiper Slider -->
+    <div class="swiper-container" style="width: 100%; padding: 20px 0; overflow: hidden !important;">
+        <div class="swiper-wrapper">
+            <?php
+            $projects = [
+                ["The Serenas", "https://www.signatureglobal.in/sector-36-south-gurugram.php", "images/delivered/the-serenas-min.webp"],
+                ["Signature Global Mall", "http://signatureglobal.in/signature-global-mall.php", "images/delivered/website-mall.webp"],
+                ["Grand IVA", "https://www.signatureglobal.in/grand-iva-sector-103-gurugram.php", "images/delivered/grand-iva-min.webp"],
+                ["The Millennia", "https://www.signatureglobal.in/the-millennia.php", "images/delivered/the-millennia-min.webp"],
+                ["Solera 2", "https://www.signatureglobal.in/solera2.php", "images/delivered/solera-2-min.webp"],
+            ];
+
+            foreach ($projects as $project) {
+                echo "<div class='swiper-slide' style='display: flex; justify-content: center;'>
+                        <a href='{$project[1]}' target='_blank' style='display: flex; width: 90%; max-width: 400px; color: black; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); background: transparent; cursor: pointer; text-decoration: none;'>
+                            <img src='{$project[2]}' alt='{$project[0]}' style='width: 50%; height: 150px; object-fit: cover;'>
+                            <div style='width: 50%; padding: 15px; display: flex; flex-direction: column; justify-content: center;'>
+                                <h3>{$project[0]}</h3>
+                            </div>
+                        </a>
+                      </div>";
+            }
+            ?>
+        </div>
+    </div>
+
+    <a href="delivered_projects.php" style="display: block; width: fit-content; margin: 20px auto; padding: 12px 20px; background:rgb(26, 55, 15); color: white; border-radius: 5px; text-decoration: none; font-size: 18px; font-weight: bold; text-align: center;">View More Projects</a>
+</div>
+<!--Our Delivered Projects End-->
+
+
+
 
 <!-- Clients reviews  -->
         <div class="container-xxl py-5">
@@ -610,7 +648,8 @@
         </div>
         <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.1s">
             <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+            <div class="bg-white border rounded p-4 testimonial-box" 
+     style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;I am booked my flat in Siyom tvasta. I am also satisfied with the company.The staff of the company is very supportive.&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_131531.jpg" style="width: 45px; height: 45px;">
@@ -622,7 +661,8 @@
                 </div>
             </div>
             <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+            <div class="bg-white border rounded p-4 testimonial-box" 
+     style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;I recently booked my flat with Siyom tvasta, and the entire process was smooth and transparent. The staff was supportive and guided me at every step. I am extremely satisfied with my decision.&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_131531.jpg" style="width: 45px; height: 45px;">
@@ -634,7 +674,8 @@
                 </div>
             </div>
             <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+            <div class="bg-white border rounded p-4 testimonial-box" 
+     style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;Siyom tvasta's customer service is outstanding. The staff was always available to answer my queries and made the flat booking process easy and stress-free.&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_131756.jpg" style="width: 45px; height: 45px;">
@@ -646,7 +687,8 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;As a first-time homebuyer, I had many questions, but the team at Signatures Globals patiently guided me through everything. I highly recommend them!&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_131914.jpg" style="width: 45px; height: 45px;">
@@ -658,7 +700,8 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;Its quality and delivery time is good top going company good team its visionary company our investment us safe and all projects in good loaction, I suggest invest in signatureglobal&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_132008.jpg" style="width: 45px; height: 45px;">
@@ -670,7 +713,8 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;Very fast construction completely good located sites .very good staff help to buy and provide all basic details in all over projects .very fast grow construction company .and higher return in your investment and scope to grow your business as a participate to sell the units very great&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_132048.jpg" style="width: 45px; height: 45px;">
@@ -682,7 +726,8 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;The transparency at Siyom tvasta is commendable. From initial inquiry to booking, everything was explained clearly, leaving no room for confusion&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_132135.jpg" style="width: 45px; height: 45px;">
@@ -694,7 +739,8 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;I got excellent value for money with Siyom tvasta. The flat's quality and the supportive staff made my experience truly satisfying.&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_132220.jpg" style="width: 45px; height: 45px;">
@@ -706,7 +752,8 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;Booked Dream Home From Direct Sales I booked my dream home with Siyom tvasta & I am happy with services. All document formality is need and clean. Entire team help on every Stage. Thanks Siyom tvasta.&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_132357.jpg" style="width: 45px; height: 45px;">
@@ -718,7 +765,8 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;One thing that stood out about Siyom tvasta is their commitment to timely delivery. I received my flat on schedule without any delays.&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_130822.jpg" style="width: 45px; height: 45px;">
@@ -730,12 +778,14 @@
                 </div>
             </div>
              <div class="testimonial-item bg-light rounded p-3 d-flex">
-                <div class="bg-white border rounded p-4 h-100">
+             <div class="bg-white border rounded p-4 testimonial-box" 
+             style="height: 230px; display: flex; flex-direction: column; justify-content: space-between;">
                     <p>&ldquo;Booked my dream home with Siyom tvasta I am lucky to be a Siyom tvasta customer. All the paper works for the flat that I booked has so far been smooth and easy. Great and helpful customer support team, they help in every stage of paper clearance.&rdquo;</p>
                     <div class="d-flex align-items-center">
                         <img class="img-fluid flex-shrink-0 rounded" src="images\customer syas\IMG_20250320_131842.jpg" style="width: 45px; height: 45px;">
                         <div class="ps-3">
-                            <h6 class="fw-bold mb-1">Prashant</h6>
+                            <h6 class="fw
+                            -bold mb-1">Prashant</h6>
                             <small>Customer</small>
                         </div>
                     </div>
@@ -812,6 +862,34 @@
 
     <!-- Template Javascript -->
     <script src="js/main.js"></script>
+
+    <!-- our delivered project script -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 1,
+        spaceBetween: 10,
+        loop: true,
+        speed: 800, // Smooth transition speed
+        autoplay: {
+            delay: 1000, // Faster slide change (1 second)
+            disableOnInteraction: false,
+        },
+        scrollbar: {
+            el: null, // Disable Swiper scrollbar
+        },
+        pagination: {
+            el: null, // Disable pagination (dots)
+        },
+        breakpoints: {
+            640: { slidesPerView: 1, spaceBetween: 20 },
+            768: { slidesPerView: 2, spaceBetween: 40 },
+            1024: { slidesPerView: 3, spaceBetween: 50 },
+        }
+    });
+</script>
+<!-- our delivered project script end -->
+
 </body>
 
 </html>

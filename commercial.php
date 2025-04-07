@@ -25,7 +25,7 @@
                         <img src="images/commercial/twin-square.webp" class="card-img-top img-fluid" alt="Signature Global Twin Square" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signature Global Twin Square</h5>
+                        <h5 class="card-title text-primary">Signature Global Twin Square</h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails1">
                             View Details
                         </button>
@@ -147,7 +147,7 @@
                         <img src="images/commercial/Signum-plaza-93-min.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signum Plaza 93 (Commercial of Signature Global City 93 )</h5>
+                        <h5 class="card-title text-primary">Signum Plaza 93 </h5>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails6">
                             View Details
                         </button>
@@ -220,7 +220,7 @@
                         <img src="images/commercial/front-view.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signum Plaza 37D II (Commercial of Signature Global City 37D II )</h5>
+                        <h5 class="card-title text-primary">Signum Plaza 37D II </h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails9">
                             View Details
                         </button>

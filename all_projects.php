@@ -138,7 +138,7 @@
                         <img src="images/extra/1734154358265-front.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Elan The Emperor</h5>
+                        <h5 class="card-title text-primary">Elan The Emperor</h5><br>
                         <a href="elan-the-emperor.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails7">
                             View Details
                         </button></a>
@@ -168,7 +168,7 @@
                         <img src="images/extra/20722Whiteland-The-Aspen-Gurgaon-sector76.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Emaar Urban Ascent Sector 112</h5>
+                        <h5 class="card-title text-primary">Emaar Urban Ascent Sector 112</h5><br>
                         <a href="Emaar Urban Ascent.php">  <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails9">
                             View Details
                         </button></a>
@@ -320,7 +320,7 @@
                         <img src="images/extra/SS-Sector-90-Residential-Project-Gurgaon.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">SS Camasa Sector 90</h5>
+                        <h5 class="card-title text-primary">SS Camasa Sector 90</h5><br>
                         <a href="ss-camasa-sector-90-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails18">
                             View Details
                         </button></a>
@@ -350,8 +350,7 @@
                         <img src="images/on_going_project/sg-city-92-min.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signature Global City 92
-                        </h5>
+                        <h5 class="card-title text-primary">Signature Global City 92</h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails13" aria-expanded="false" aria-controls="propertyDetails4">
                             View Details
                         </button>
@@ -533,7 +532,7 @@
                         <img src="images/on_going_project/the-sunrise-karnal-min (1).webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Sunrise The Premium Floors</h5>
+                        <h5 class="card-title text-primary">Sunrise The Premium Floors</h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails20" aria-expanded="false" aria-controls="propertyDetails4">
                             View Details
                         </button>
@@ -558,8 +557,8 @@
                 <a href="city-of-colours.php">
       <img src="images/commercial/twin-square.webp" class="card-img-top img-fluid" alt="ROF Insignia Park" style="height: 300px; object-fit: cover;" /></a>
                     <div class="card-body" >
-                        <h5 class="card-title text-primary">Signature Global Twin Square</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails1" style=" width: 150px; height: 50px; ">
+                        <h5 class="card-title text-primary">Signature Global Twin Square</h5><br>
+                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails1">
                             View Details
                         </button>
                         <div class="collapse mt-2" id="propertyDetails1">
@@ -631,7 +630,7 @@
                         <img src="images/commercial/SCO-88A-II-min.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signature Global SCO II 88A</h5>
+                        <h5 class="card-title text-primary">Signature Global SCO II 88A</h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails4">
                             View Details
                         </button>
@@ -655,7 +654,7 @@
                         <img src="images/commercial/SCO-88A-min.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signature Global SCO 88A</h5>
+                        <h5 class="card-title text-primary">Signature Global SCO 88A</h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails5">
                             View Details
                         </button>
@@ -753,7 +752,8 @@
                         <img src="images/commercial/front-view.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Signum Plaza 37D II (Commercial of Signature Global City 37D II )</h5>
+                        <h5 class="card-title text-primary">Signum Plaza 37D II </h5>
+                            <!-- (Commercial of Signature Global City 37D II) -->
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails9">
                             View Details
                         </button>
@@ -825,7 +825,7 @@
                         <img src="images/commercial/infinity-mall-min.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Infinity Mall</h5>
+                        <h5 class="card-title text-primary">Infinity Mall</h5><br>
                         <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails12">
                             View Details
                         </button>
