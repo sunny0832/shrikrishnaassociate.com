@@ -88,6 +88,7 @@
                     <a href="Latest_Residential_Properties.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Residential</a>
                     <div class="dropdown-menu rounded-0 m-0">
                         <a href="Latest_Residential_Properties.php" class="dropdown-item">Residential</a>
+                        <a href="affordable-projects.php" class="dropdown-item">Affordable</a>
                         <a href="commercial.php" class="dropdown-item">Commercial</a>
                         <a href="Ongoing_projects.php" class="dropdown-item">Ongoing Projects</a>
                         <a href="plots.php" class="dropdown-item">Plot</a>

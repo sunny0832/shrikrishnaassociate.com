@@ -135,7 +135,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-apartment.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-apartment.png" alt="Icon">
                         </div>
                         <h6>Apartment</h6>
                     </div>
@@ -145,7 +145,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-villa.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-villa.png" alt="Icon">
                         </div>
                         <h6>Villa</h6>
                     </div>
@@ -155,7 +155,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-house.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-house.png" alt="Icon">
                         </div>
                         <h6>Home</h6>
                     </div>
@@ -165,7 +165,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-housing.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-housing.png" alt="Icon">
                         </div>
                         <h6>Office</h6>
                     </div>
@@ -175,7 +175,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-building.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-building.png" alt="Icon">
                         </div>
                         <h6>Building</h6>
                     </div>
@@ -185,7 +185,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-neighborhood.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-neighborhood.png" alt="Icon">
                         </div>
                         <h6>Townhouse</h6>
                     </div>
@@ -195,7 +195,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-condominium.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-condominium.png" alt="Icon">
                         </div>
                         <h6>Shop</h6>
                     </div>
@@ -205,7 +205,7 @@
                 <a class="cat-item d-block bg-light text-center rounded p-3" href="">
                     <div class="rounded p-4" data-bs-toggle="modal" data-bs-target="#enquiryModal">
                         <div class="icon mb-3">
-                            <img class="img-fluid" src="img/icon-luxury.png" alt="Icon">
+                            <img class="img-fluid" src="images/icon-luxury.png" alt="Icon">
                         </div>
                         <h6>Garage</h6>
                     </div>
@@ -224,7 +224,7 @@
         <div class="row g-5 align-items-center">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.1s">
                 <div class="about-img position-relative overflow-hidden p-5 pe-0">
-                    <img class="img-fluid w-100" src="img/about.jpg" alt="About Us">
+                    <img class="img-fluid w-100" src="images/about.jpg" alt="About Us">
                 </div>
             </div>
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
@@ -807,42 +807,42 @@
 
 <!-- enquiry form javascript-->
 <script>
-  document.addEventListener("DOMContentLoaded", function () {
-    var enquiryModal = new bootstrap.Modal(document.getElementById('enquiryModal'));
-    enquiryModal.show();
-  });
-</script>
-<script>
-  document.addEventListener("DOMContentLoaded", function () {
-    document.querySelectorAll(".toggle-btn").forEach(button => {
-      button.addEventListener("click", function () {
-        var targetId = this.getAttribute("data-target"); // ID dynamically get karega
-        var target = document.getElementById(targetId);
+//   document.addEventListener("DOMContentLoaded", function () {
+//     var enquiryModal = new bootstrap.Modal(document.getElementById('enquiryModal'));
+//     enquiryModal.show();
+//   });
+// </script>
+// <script>
+//   document.addEventListener("DOMContentLoaded", function () {
+//     document.querySelectorAll(".toggle-btn").forEach(button => {
+//       button.addEventListener("click", function () {
+//         var targetId = this.getAttribute("data-target"); // ID dynamically get karega
+//         var target = document.getElementById(targetId);
 
-        if (!target) return;
+//         if (!target) return;
 
-        var collapseInstance = bootstrap.Collapse.getOrCreateInstance(target);
+//         var collapseInstance = bootstrap.Collapse.getOrCreateInstance(target);
 
-        // Close all other open dropdowns
-        document.querySelectorAll(".collapse.show").forEach(openDropdown => {
-          if (openDropdown !== target) {
-            bootstrap.Collapse.getOrCreateInstance(openDropdown).hide();
-            let openButton = openDropdown.closest(".card").querySelector(".toggle-btn");
-            if (openButton) openButton.innerText = "View Details"; 
-          }
-        });
+//         // Close all other open dropdowns
+//         document.querySelectorAll(".collapse.show").forEach(openDropdown => {
+//           if (openDropdown !== target) {
+//             bootstrap.Collapse.getOrCreateInstance(openDropdown).hide();
+//             let openButton = openDropdown.closest(".card").querySelector(".toggle-btn");
+//             if (openButton) openButton.innerText = "View Details"; 
+//           }
+//         });
 
-        // Toggle the clicked dropdown
-        if (target.classList.contains("show")) {
-          collapseInstance.hide();
-          this.innerText = "View Details";
-        } else {
-          collapseInstance.show();
-          this.innerText = "Hide Details";
-        }
-      });
-    });
-  });
+//         // Toggle the clicked dropdown
+//         if (target.classList.contains("show")) {
+//           collapseInstance.hide();
+//           this.innerText = "View Details";
+//         } else {
+//           collapseInstance.show();
+//           this.innerText = "Hide Details";
+//         }
+//       });
+//     });
+//   });
 </script>
 <!--end enquiry form javascript-->
 
