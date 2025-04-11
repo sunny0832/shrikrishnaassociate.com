@@ -8,7 +8,7 @@
         }
     }
 </style>
-
+<p>&nbsp;</p><p>&nbsp;</p>
         <!-- Header Start -->
         <div class="container-fluid header bg-white p-0">
             <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
@@ -26,10 +26,10 @@
                 <div class="col-md-6 animated fadeIn">
                     <div class="owl-carousel header-carousel">
                         <div class="owl-carousel-item">
-                            <img class="img-fluid" src="img/carousel-1.jpg" alt="">
+                            <img class="img-fluid" src="images/carousel-1.jpg" alt="">
                         </div>
                         <div class="owl-carousel-item">
-                            <img class="img-fluid" src="img/carousel-2.jpg" alt="">
+                            <img class="img-fluid" src="images/carousel-2.jpg" alt="">
                         </div>
                     </div>
                 </div>
@@ -349,10 +349,10 @@
                   <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                       <div class="property-item rounded overflow-hidden">
                           <div class="position-relative overflow-hidden">
-                              <a href="city-of-colours.php"><img class="img-fluid w-100" src="images/commercial/twin-square.webp" alt="" style="height:270px;object-fit: cover;"></a>
+                              <a href="twin-square-retail.php"><img class="img-fluid w-100" src="images/commercial/twin-square.webp" alt="" style="height:270px;object-fit: cover;"></a>
                           </div>
                           <div class="p-4 pb-0">
-                              <a class="d-block h5 mb-2" href="city-of-colours.php">Signature Global Twin Square
+                              <a class="d-block h5 mb-2" href="twin-square-retail.php">Signature Global Twin Square
                               </a><br>
                           </div>
                       </div>

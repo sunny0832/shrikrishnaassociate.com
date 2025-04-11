@@ -2,25 +2,26 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="shortcut icon" href="favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Luxury Properties</title>
+    <title>Commercial Properties</title>
     
     <!-- Bootstrap 5 CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
-
+<?php  include "navbar.php"; ?>
     <!-- Spacing -->
     <div class="my-5"></div>
 
-    <!-- Latest Luxury Properties -->
+    <!-- Latest Commercial Properties -->
     <section class="container">
-        <h2 class="text-center text-primary mb-4">Latest Luxury Properties</h2>
+        <h2 class="text-center text-primary mb-4">Luxuary Projects</h2>
         
         <div class="row">
-                  <!-- Property 1 -->
-            <div class="col-md-6 col-lg-4 mb-4">
+          
+
+                      <!-- Property 1 -->
+                      <div class="col-md-6 col-lg-4 mb-4">
                 <div class="card shadow-sm border-0">
                 <a href="adani-samsara-ivana.php">
       <img src="images/extra/Aproach road02.webp" class="card-img-top img-fluid" alt="ROF Insignia Park" style="height: 300px; object-fit: cover;" /></a>
@@ -118,7 +119,7 @@
                         <img src="images/extra/1734154358265-front.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Elan The Emperor</h5>
+                        <h5 class="card-title text-primary">Elan The Emperor</h5><br>
                         <a href="elan-the-emperor.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails7">
                             View Details
                         </button></a>
@@ -149,7 +150,7 @@
                         <img src="images/extra/20722Whiteland-The-Aspen-Gurgaon-sector76.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Emaar Urban Ascent Sector 112</h5>
+                        <h5 class="card-title text-primary">Emaar Urban Ascent Sector 112</h5><br>
                         <a href="Emaar Urban Ascent.php">  <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails9">
                             View Details
                         </button></a>
@@ -308,17 +309,13 @@
                         <img src="images/extra/SS-Sector-90-Residential-Project-Gurgaon.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">SS Camasa Sector 90</h5>
+                        <h5 class="card-title text-primary">SS Camasa Sector 90</h5><br>
                         <a href="ss-camasa-sector-90-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails18">
                             View Details
                         </button></a>
                     </div>
                 </div>
             </div>
-            
-            
-
-
 
              <!-- Property 20 -->
 <div class="col-md-6 col-lg-4 mb-4">
@@ -338,10 +335,11 @@
 
 
 
-
         </div>
     </section>
 
+      <!--footer section  -->
+<?php include "footer.php" ?>
     <!-- Bootstrap Bundle JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 

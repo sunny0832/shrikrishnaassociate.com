@@ -30,14 +30,6 @@
 </head>
 <body>
 
-<?php 
-    $navbarPath = "navbar.php";
-    if (file_exists($navbarPath)) {
-        include $navbarPath;
-    } else {
-        echo '<div class="alert alert-danger text-center">Navbar file not found!</div>';
-    }
-?>
 
 <!-- Banner Image Section -->
 <section id="home" class="bg-light">

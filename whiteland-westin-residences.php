@@ -119,7 +119,7 @@
     <nav class="navbar navbar-expand-lg">
         <div class="container">
             <a class="navbar-brand fw-bold" href="#">
-                <img src="images/siyom_tvasta_infra.png" alt="Logo" height="40"> Siyom Tvasta
+                <img src="images/SKA1.webp" alt="Logo" height="40">Shri Krishna Associate
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
                 <span class="navbar-toggler-icon"></span>
