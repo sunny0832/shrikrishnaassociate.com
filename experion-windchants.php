@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+31311<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +11,7 @@
     <style>
         /* Smooth Scroll */
         html {
-            scroll-behavior: smooth;
+            scroll-behavior: smooth;4231
         }
 
         /* Navbar Styling */

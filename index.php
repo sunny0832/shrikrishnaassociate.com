@@ -811,8 +811,7 @@
 //     var enquiryModal = new bootstrap.Modal(document.getElementById('enquiryModal'));
 //     enquiryModal.show();
 //   });
-// </script>
-// <script>
+// </script> <script>
 //   document.addEventListener("DOMContentLoaded", function () {
 //     document.querySelectorAll(".toggle-btn").forEach(button => {
 //       button.addEventListener("click", function () {
