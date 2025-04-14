@@ -362,7 +362,7 @@
             </div>
             <!-- Right Side - Single Floor Plan Image -->
             <div style="width: 100%; max-width: 500px; flex: 1; text-align: center;">
-                <img src="images/extra/floor4 - 3 BHK+Utility Room_1688623011.jpeg7890" alt="Floor Plan"data-bs-toggle="modal"data-bs-target="#contactModal" 
+                <img src="images/extra/xvimyjsp8ltxa6qpybdx.jpeg" alt="Floor Plan"data-bs-toggle="modal"data-bs-target="#contactModal" 
                      style="width: 100%; height: auto; border-radius: 10px;object-fit: contain; max-height: 500px;">
             </div>
         </div>

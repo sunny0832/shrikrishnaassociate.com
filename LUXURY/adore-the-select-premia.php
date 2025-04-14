@@ -141,7 +141,7 @@
 
     <div style="text-align: center; overflow: hidden;background-color:#bab777;">
     <div style="display: inline-block; width: 100%; max-width: 1250px;">
-        <img src="images/extra/39092442337962154403.webp" alt="Image" 
+        <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" alt="Image" 
              style="width: 100%; height: auto; max-height: 600px; object-fit: contain;">
     </div>
 </div>
@@ -156,18 +156,18 @@
         <div class="row align-items-center"> 
             <!-- Left Column: Content -->
             <div class="col-md-6">
-            <h2>SS Cendana Residence, Sector 83, Gurgaon</h2>
-<p><strong>SS Cendana Residence</strong> is a unique, freshly launched residential project by SS Group located in Gurgaon. A place where you can live a refreshing lifestyle, breathe in the finest air quality, and enjoy a cool, modern living experience. This project offers a perfect balance between luxury and sustainability, providing you with the independence to breathe in the purest air.</p>
-<p><strong>Thoughtfully Designed Living:</strong> SS Cendana Residence is meticulously planned to offer luxurious and comfortable living spaces. It’s an innovative project designed to fulfill the dream of residing in a pure, eco-friendly environment. The location itself is poised to become a major hub with many upcoming commercial and social developments, enhancing the value of the area. It's a destination for SMEs and entrepreneurs, offering superb infrastructure and great opportunities.</p>
-<p><strong>Strategic Location:</strong> SS Cendana Residence is strategically situated in Sector 83, Gurgaon, with signal-free connectivity from NH-8 and four major expressways, including NH-48, Dwarka Expressway, and KMP Expressway. It is also easily accessible from the IGI Airport, making it an ideal location for both work and leisure.</p>78789072
-<p><strong>Exclusive Living Experience:</strong> The project promises private, comfortable living with residential apartments designed to offer luxurious experiences. With the increasing pollution levels, SS Cendana Residence has incorporated several air-purifying elements like salt lamps and beeswax candles in common areas to ensure the air remains fresh and pure.</p>
-
+            <h2>Adore The Select Premia, Sector 77, Gurgaon</h2>
+<p><strong>Adore The Select Premia</strong> is an upcoming ultra-luxury residential project located at New Golf Course Road, Sector 77, Gurgaon, developed by the reputed Adore Group. Spread across 10.20 acres of prime land, this project offers a lavish lifestyle for modern homebuyers.</p>
+<p><strong>Luxurious Residences:</strong> The project features thoughtfully designed 2BHK, 3BHK, 3.5BHK, and 4BHK residences with apartment sizes ranging from 1875 sq.ft. to 2800 sq.ft., ensuring ample living space and premium finishes throughout.</p>
+<p><strong>Prime Address:</strong> Located in the heart of Sector 77, Gurgaon, the project offers seamless connectivity to the New Golf Course Road and other major city hubs, making it a highly sought-after location for urban living.</p>
+<p><strong>Elegantly Designed Interiors:</strong> Every home is crafted with attention to detail, utilizing every corner efficiently while maintaining a premium aesthetic appeal. The homes are a perfect blend of elegance, comfort, and space optimization.</p>
+<p><strong>Green and Peaceful Living:</strong> Surrounded by acres of lush greenery and wide-open landscapes, the project creates a serene environment for its residents. The peaceful surroundings promote a healthy and relaxed lifestyle.</p>
 
     <button class="btn btn-warning text-white" data-bs-toggle="modal" data-bs-target="#contactModal">Get Details →</button>
 </div>
             <!-- Right Column: Image -->
             <div class="col-md-6 text-center">
-                <img src="images/extra/11847158861182913473ss-cendana.webp" alt="Overview Image" class="img-fluid" data-bs-toggle="modal" data-bs-target="#contactModal" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 3px 8px 10px rgba(0, 0, 0, 0.4);">
+                <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-10.avif" alt="Overview Image" class="img-fluid" data-bs-toggle="modal" data-bs-target="#contactModal" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 3px 8px 10px rgba(0, 0, 0, 0.4);">
             </div>
         </div>
     </div>
@@ -182,26 +182,26 @@
             
             <!-- Left Side - Image -->
             <div style="flex: 1; max-width: 500px; display: flex; align-items: center; justify-content: center;">
-                <img src="images/extra/1559997672179256032109.webp" alt="Project Features" 
+                <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-11.avif" alt="Project Features" 
                     style="width: 100%; height: auto; min-height: 350px; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); object-fit: cover;">
             </div>
             <!-- Right Side - Content -->
             <div style="flex: 1; max-width: 550px; text-align: left;">
             <h2 style="color: #1c355e; font-weight: bold; margin-bottom: 20px; font-size: 28px;">Project Features</h2>
-
 <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; font-size: 15px;">🏊 <strong>Swimming Pool:</strong> Relax and unwind in a luxurious pool area.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">💪 <strong>Fully Loaded Gymnasium:</strong> State-of-the-art fitness center for all your wellness needs.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌳 <strong>85% Open Space:</strong> Expansive open areas to enjoy fresh air and greenery.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏸 <strong>Choice of Sports & Indoor Games:</strong> A variety of sports and indoor game options for everyone.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🎉 <strong>Lavish Multi-purpose Banquet Hall:</strong> Ideal venue for events, parties, and gatherings.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌱 <strong>Organic Garden:</strong> Grow your own organic vegetables and herbs.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏗️ <strong>Stilts & Hardscape Area:</strong> Thoughtfully designed spaces for additional convenience.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌺 <strong>Designer Landscaping:</strong> Beautifully crafted landscaping that enhances the project's aesthetic appeal.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🚗 <strong>Multiple Visitors Car Park:</strong> Convenient parking spaces for your guests.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏛️ <strong>Elegant & Spacious Lobby:</strong> A grand entrance that sets the tone for the entire building.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🚪 <strong>Separate Elevators for Residents & Services:</strong> Efficient and exclusive elevator access for both residents and services.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>Multipurpose Hall:</strong> A versatile space for various activities and events.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">💰 <strong>Booking Amount:</strong> Just ₹7.5 Lacs Only</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🚗 <strong>Car Parking:</strong> Worth ₹5 Lacs (Free)</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🎫 <strong>Club Membership:</strong> Worth ₹5 Lacs (Free)</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">📏 <strong>Ceiling Height:</strong> Grand 12 ft height</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🍽️ <strong>Modular Kitchen:</strong> Fully loaded with modern amenities</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏛️ <strong>Flooring:</strong> Italian Marble for a luxurious touch</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🛣️ <strong>75-Meter Road:</strong> Prime connectivity and accessibility</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>Club House:</strong> Sprawling 60,000 Sq.Ft for recreation & wellness</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">📐 <strong>Total Project Area:</strong> Spread across 10.20 Acres</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏘️ <strong>Exclusive Units:</strong> Limited to 700 Ultra Luxury Residences</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏙️ <strong>Towers:</strong> 12 architecturally stunning towers</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏗️ <strong>Tower Height:</strong> G+13 floors for panoramic views</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🌟 <strong>Residences:</strong> Designed for ultimate comfort and style</li>
 </ul>
 
 
@@ -250,7 +250,7 @@
             <!-- Image 1 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/202908928770544854205.webp" class="img-fluid rounded shadow" alt="Gallery Image 1" loading="lazy"
+                    <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" class="img-fluid rounded shadow" alt="Gallery Image 1" loading="lazy"
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -259,7 +259,7 @@
             <!-- Image 2 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/209546603167771225707.webp" class="img-fluid rounded shadow" alt="Gallery Image 2" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
+                    <img src="images/extra/1734346032379-g2.jpg" class="img-fluid rounded shadow" alt="Gallery Image 2" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
                 </div>
@@ -267,7 +267,7 @@
             <!-- Image 3 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/23644832723525520908.webp" class="img-fluid rounded shadow" alt="Gallery Image 3" 
+                    <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-12.avif" class="img-fluid rounded shadow" alt="Gallery Image 3" 
                     loading="lazy"  style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -276,7 +276,7 @@
             <!-- Image 4 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/571842830124306861806.webp" class="img-fluid rounded shadow" alt="Gallery Image 4" loading="lazy" 
+                    <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-2.avif" class="img-fluid rounded shadow" alt="Gallery Image 4" loading="lazy" 
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -285,7 +285,7 @@
             <!-- Image 5 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/2108169006176269239501.webp" class="img-fluid rounded shadow" alt="Gallery Image 5" loading="lazy"
+                    <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-3.avif" class="img-fluid rounded shadow" alt="Gallery Image 5" loading="lazy"
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -294,7 +294,7 @@
             <!-- Image 6 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/968918846174753764002.webp" class="img-fluid rounded shadow" alt="Gallery Image 6" loading="lazy"
+                    <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-4.avif" class="img-fluid rounded shadow" alt="Gallery Image 6" loading="lazy"
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -303,7 +303,7 @@
             <!-- Image 7 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/emaar-amaris-gallery-image-3.webp" class="img-fluid rounded shadow" alt="Gallery Image 5"
+                    <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-5.avif" class="img-fluid rounded shadow" alt="Gallery Image 5"
                     loading="lazy" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -312,7 +312,7 @@
 <!-- Image 8 -->
 <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/emaar-amaris-gallery-image-5.webp" class="img-fluid rounded shadow" alt="Gallery Image 5" 
+                    <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-6.avif" class="img-fluid rounded shadow" alt="Gallery Image 5" 
                     loading="lazy"  style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -342,13 +342,13 @@
                     </thead>
                     <tbody>
                         <tr>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;">3BHK</td>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;">1450 SQ.FT Onwards</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;">3 BHK + Servant's Room</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;">2000   SQ.FT Onwards</td>
                             <td style="border: 2px solid #c79c3d; padding: 12px;">Call For Price</td>
                         </tr>
                         <tr>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;"> 3 BHK+Study</td>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;">1850  SQ.FT Onwards</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;"> 4 BHK + Servant's Room</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;">2500  SQ.FT Onwards</td>
                             <td style="border: 2px solid #c79c3d; padding: 12px;">Call For Price</td>
                         </tr>
                     </tbody>
@@ -361,7 +361,7 @@
             </div>
             <!-- Right Side - Single Floor Plan Image -->
             <div style="width: 100%; max-width: 500px; flex: 1; text-align: center;">
-                <img src="images/extra/I11808128139SSCendanaBrochure_page-0018.jpg" alt="Floor Plan"data-bs-toggle="modal"data-bs-target="#contactModal" 
+                <img src="images/extra/4 BHK+Servant_1688729301.jpg" alt="Floor Plan"data-bs-toggle="modal"data-bs-target="#contactModal" 
                      style="width: 100%; height: auto; border-radius: 10px;object-fit: contain; max-height: 500px;">
             </div>
         </div>
@@ -418,23 +418,18 @@
         <div class="row align-items-center justify-content-center"> 
             <!-- Left Column: Image (Now First) -->
             <div class="col-md-6 text-center">
-                <img src="images/extra/highlight.jpg" alt="Overview Image" class="img-fluid" 
+                <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-4.avif" alt="Overview Image" class="img-fluid" 
                      style="max-width: 100%; height: 400px; object-fit: cover; border-radius: 10px; 
                             box-shadow: 3px 8px 10px rgba(0, 0, 0, 0.4);">
             </div>
             <!-- Right Column: Content -->
             <div class="col-md-6">
-            <h2 style="font-style: italic; color: #1c355e;">HIGHLIGHTS - </h2>
+            <h2 style="font-style: italic; color: #1c355e;">HIGHLIGHTS</h2>
 <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; font-size: 15px;">🏛 <strong>Grand Club House:</strong> Spans approximately 40,000 sq. ft. with world-class amenities.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌳 <strong>10 Acres of Green Spaces:</strong> Beautifully landscaped surroundings for serene living.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">📐 <strong>Apartment Sizes:</strong> Ranging from 1450 to 1850 sq. ft. for spacious, luxurious living.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏊 <strong>Clubhouse with Swimming Pool:</strong> Relax and rejuvenate with a dip anytime you like.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>10 Residential Towers:</strong> A thoughtfully planned premium development.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🛋 <strong>Large Pre-function Lobby:</strong> Includes a stylish and multi-purpose hall for events.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌬 <strong>Clean Air Measures:</strong> Features like salt lamps and beeswax candles in common areas for fresh air quality.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🚗 <strong>Spacious Car Parking:</strong> Adequate and well-planned parking facilities for all residents.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏠 <strong>Signature Living:</strong> SS Cendana Residences Sector 83 Gurgaon is a unique and exquisite residential property.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏘️ <strong>Exquisite 2 & 3 BHK Apartments:</strong> Featuring contemporary décor and premium fixtures for a refined lifestyle.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🛣️ <strong>Strategic Connectivity:</strong> Located near NH-8, Dwarka Expressway & SPR for seamless access to commercial hubs, schools, hospitals, and retail complexes.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏊‍♂️ <strong>Modern Amenities:</strong> Includes a clubhouse, swimming pool, gym, and eco-friendly zones for a safe and pleasant living experience.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">📈 <strong>High Investment Potential:</strong> Combines a prime location with sustainable design for a smart and balanced lifestyle choice.</li>
 </ul>
 
 
@@ -453,14 +448,21 @@
     <div class="container" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; max-width: 1100px; margin: auto; gap: 20px;">
         <!-- Left Content -->
         <div style="flex: 1 1 400px; max-width: 500px;">
-        <h2 style="font-style: italic; color: #1c355e; margin-bottom: 20px;">Location Advantages</h2>
-<h3 style="font-style: italic; color: #1c355e;">LEADING CONNECTIVITY</h3>
+        <h2 style="color: #1c355e; font-weight: bold; margin-bottom: 20px; font-size: 28px;">Location Advantages</h2>
 <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; font-size: 16px;">📍 <strong>Prime Location:</strong> Located in Sector 83, New Gurugram, SS Cendana Residence is within minutes of NH 48, Dwarka Expressway, and all the well-established social infrastructure of the buzzing millennium city.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">🚗 <strong>3 Mins From Dwarka Expressway:</strong> Effortless access to one of the key expressways in the region.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">🚘 <strong>5 Mins From NH-48 (NH-08):</strong> Easy connectivity to the national highway for smooth travel.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">🚦 <strong>10 Mins From Rajiv Chowk:</strong> Quick commute to one of the most well-known junctions in the city.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">✈ <strong>25 Mins From IGI Airport:</strong> Hassle-free travel with quick access to the international airport.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">💰 <strong>Booking Amount:</strong> Just ₹7.5 Lacs Only</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🚗 <strong>Car Parking:</strong> Worth ₹5 Lacs (Free)</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🎫 <strong>Club Membership:</strong> Worth ₹5 Lacs (Free)</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">📏 <strong>Ceiling Height:</strong> Grand 12 ft height</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🍽️ <strong>Modular Kitchen:</strong> Fully loaded with modern amenities</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏛️ <strong>Flooring:</strong> Italian Marble for a luxurious touch</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🛣️ <strong>75-Meter Road:</strong> Prime connectivity and accessibility</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>Club House:</strong> Sprawling 60,000 Sq.Ft for recreation & wellness</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">📐 <strong>Total Project Area:</strong> Spread across 10.20 Acres</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏘️ <strong>Exclusive Units:</strong> Limited to 700 Ultra Luxury Residences</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏙️ <strong>Towers:</strong> 12 architecturally stunning towers</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏗️ <strong>Tower Height:</strong> G+13 floors for panoramic views</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🌟 <strong>Residences:</strong> Designed for ultimate comfort and style</li>
 </ul>
 
 
@@ -469,7 +471,7 @@
         </div>
         <!-- Right Side - Image -->
         <div style="flex: 1 1 400px; max-width: 500px;">
-            <img src="images/extra/SS-Cendana-Residence-Location-Map-1536x1102.webp" alt="Location Map" data-bs-toggle="modal" data-bs-target="#contactModal"  
+            <img src="images/extra/Adore-Sector-77-Gurgaon-Location-Map-1536x789.webp" alt="Location Map" data-bs-toggle="modal" data-bs-target="#contactModal"  
             style="width: 100%; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); ">
         </div>
     </div>

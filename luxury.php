@@ -992,6 +992,70 @@
                 </div>
             </div>
 
+ <!-- Property 65 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="ss-cendana-residences.php">
+                        <img src="images/extra/39092442337962154403.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">SS Cendana Residence, Sector 83, Gurgaon</h5>
+                        <a href="ss-cendana-residences.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails65">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 66 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="adore-the-select-premia.php">
+                        <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Adore The Select Premia, Sector 77, Gurgaon</h5>
+                        <a href="adore-the-select-premia.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails66">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Property 67 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="mapsko-the-icon-sector-79-gurgaon.php">
+                        <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Mapsko The ICON 79, Sector 79, Gurgaon</h5>
+                        <a href="mapsko-the-icon-sector-79-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails67">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+ <!-- Property 68 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="mrg-crown-sector-106-gurgaon.php">
+                        <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">MRG Crown, Sector 106, Gurgaon</h5>
+                        <a href="mrg-crown-sector-106-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails68">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
 
 
 

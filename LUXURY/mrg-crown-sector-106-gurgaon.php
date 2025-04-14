@@ -141,7 +141,7 @@
 
     <div style="text-align: center; overflow: hidden;background-color:#bab777;">
     <div style="display: inline-block; width: 100%; max-width: 1250px;">
-        <img src="images/extra/39092442337962154403.webp" alt="Image" 
+        <img src="images/extra/overview-.jpg" alt="Image" 
              style="width: 100%; height: auto; max-height: 600px; object-fit: contain;">
     </div>
 </div>
@@ -156,18 +156,20 @@
         <div class="row align-items-center"> 
             <!-- Left Column: Content -->
             <div class="col-md-6">
-            <h2>SS Cendana Residence, Sector 83, Gurgaon</h2>
-<p><strong>SS Cendana Residence</strong> is a unique, freshly launched residential project by SS Group located in Gurgaon. A place where you can live a refreshing lifestyle, breathe in the finest air quality, and enjoy a cool, modern living experience. This project offers a perfect balance between luxury and sustainability, providing you with the independence to breathe in the purest air.</p>
-<p><strong>Thoughtfully Designed Living:</strong> SS Cendana Residence is meticulously planned to offer luxurious and comfortable living spaces. It’s an innovative project designed to fulfill the dream of residing in a pure, eco-friendly environment. The location itself is poised to become a major hub with many upcoming commercial and social developments, enhancing the value of the area. It's a destination for SMEs and entrepreneurs, offering superb infrastructure and great opportunities.</p>
-<p><strong>Strategic Location:</strong> SS Cendana Residence is strategically situated in Sector 83, Gurgaon, with signal-free connectivity from NH-8 and four major expressways, including NH-48, Dwarka Expressway, and KMP Expressway. It is also easily accessible from the IGI Airport, making it an ideal location for both work and leisure.</p>78789072
-<p><strong>Exclusive Living Experience:</strong> The project promises private, comfortable living with residential apartments designed to offer luxurious experiences. With the increasing pollution levels, SS Cendana Residence has incorporated several air-purifying elements like salt lamps and beeswax candles in common areas to ensure the air remains fresh and pure.</p>
+            <h2>MRG Crown, Sector 106, Gurgaon</h2>
 
+<p><strong>MRG Crown</strong> is a luxurious low rise floors in Sector 106 Gurgaon. MRG Crown is a new launch housing development by MRG Group that offers low rise floors in Sector 106 Gurgaon. The building is four stories tall and contains 468 apartments. The project features super luxurious 3 BHK boutique floor low rise residences. The low-rise apartments are well-ventilated and have enough light on each side of the level.</p>
+<p><strong>MRG Crown 106 Gurgaon</strong> provides a holistic way of being, encompassing a one-of-a-kind lifestyle with limitless possibilities to fulfil every desire of yours.</p>
+<p>A vibrant environment that feeds your soul and connects you to a plethora of enjoyable activities.</p>
+<p>In this upcoming destination, you can live your every fantasy and cherish the peace and tranquillity your heart craves.</p>
+<p><strong>MRG Crown 106</strong> is exquisitely landscaped, offering a self-sufficient ecosystem that provides every urban convenience while separating you from the chaos of city life. This project is an excellent blend of the luxuries of an independent floor and the conveniences of a condominium. This one-of-a-kind concept is a brilliantly innovative approach to meeting the new demands of a constantly changing lifestyle.</p>
 
+  
     <button class="btn btn-warning text-white" data-bs-toggle="modal" data-bs-target="#contactModal">Get Details →</button>
 </div>
             <!-- Right Column: Image -->
             <div class="col-md-6 text-center">
-                <img src="images/extra/11847158861182913473ss-cendana.webp" alt="Overview Image" class="img-fluid" data-bs-toggle="modal" data-bs-target="#contactModal" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 3px 8px 10px rgba(0, 0, 0, 0.4);">
+                <img src="images/extra/gallery5-.jpg" alt="Overview Image" class="img-fluid" data-bs-toggle="modal" data-bs-target="#contactModal" style="max-width: 100%; height: auto; border-radius: 10px; box-shadow: 3px 8px 10px rgba(0, 0, 0, 0.4);">
             </div>
         </div>
     </div>
@@ -182,27 +184,27 @@
             
             <!-- Left Side - Image -->
             <div style="flex: 1; max-width: 500px; display: flex; align-items: center; justify-content: center;">
-                <img src="images/extra/1559997672179256032109.webp" alt="Project Features" 
+                <img src="images/extra/emaar-amaris-indoor-amenities.webp" alt="Project Features" 
                     style="width: 100%; height: auto; min-height: 350px; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3); object-fit: cover;">
             </div>
             <!-- Right Side - Content -->
             <div style="flex: 1; max-width: 550px; text-align: left;">
             <h2 style="color: #1c355e; font-weight: bold; margin-bottom: 20px; font-size: 28px;">Project Features</h2>
-
 <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; font-size: 15px;">🏊 <strong>Swimming Pool:</strong> Relax and unwind in a luxurious pool area.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">💪 <strong>Fully Loaded Gymnasium:</strong> State-of-the-art fitness center for all your wellness needs.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌳 <strong>85% Open Space:</strong> Expansive open areas to enjoy fresh air and greenery.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏸 <strong>Choice of Sports & Indoor Games:</strong> A variety of sports and indoor game options for everyone.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🎉 <strong>Lavish Multi-purpose Banquet Hall:</strong> Ideal venue for events, parties, and gatherings.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌱 <strong>Organic Garden:</strong> Grow your own organic vegetables and herbs.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏗️ <strong>Stilts & Hardscape Area:</strong> Thoughtfully designed spaces for additional convenience.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌺 <strong>Designer Landscaping:</strong> Beautifully crafted landscaping that enhances the project's aesthetic appeal.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🚗 <strong>Multiple Visitors Car Park:</strong> Convenient parking spaces for your guests.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏛️ <strong>Elegant & Spacious Lobby:</strong> A grand entrance that sets the tone for the entire building.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🚪 <strong>Separate Elevators for Residents & Services:</strong> Efficient and exclusive elevator access for both residents and services.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>Multipurpose Hall:</strong> A versatile space for various activities and events.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>8 Acres Project:</strong> Sprawling, expansive land for your dream home.</li> 
+    <li style="margin-bottom: 10px; font-size: 15px;">🌳 <strong>1.5-Acre Park:</strong> A lush green park to relax and unwind.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏠 <strong>22,000 Sq Ft Clubhouse:</strong> A massive clubhouse for recreation and leisure.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🍽️ <strong>Modular Kitchen:</strong> Fully equipped kitchen with modern designs.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🌀 <strong>VRV in All Rooms:</strong> Advanced VRV air conditioning system in every room.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">👗 <strong>All Room Wardrobe with Dresser:</strong> Spacious wardrobes with attached dressers in all rooms.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🔋 <strong>100% Power Backup:</strong> Uninterrupted power supply for your convenience.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🎥 <strong>Video Calling Security:</strong> Advanced security system with video calling feature.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🛗 <strong>2 Private Lifts for 8 Units:</strong> Exclusive lifts for added privacy and comfort.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🛠️ <strong>Additional Room in Basement:</strong> Extra space in the basement for added storage or use.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🌅 <strong>Terrace Space for Everyone:</strong> Open, airy terrace space for each unit.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🚗 <strong>Visitors Car Parking:</strong> Ample parking space for your guests.</li>
 </ul>
+
 
 
 
@@ -250,7 +252,7 @@
             <!-- Image 1 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/202908928770544854205.webp" class="img-fluid rounded shadow" alt="Gallery Image 1" loading="lazy"
+                    <img src="images/extra/MRG-Crown-.webp" class="img-fluid rounded shadow" alt="Gallery Image 1" loading="lazy"
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -259,7 +261,7 @@
             <!-- Image 2 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/209546603167771225707.webp" class="img-fluid rounded shadow" alt="Gallery Image 2" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
+                    <img src="images/extra/1734346032379-g2.jpg" class="img-fluid rounded shadow" alt="Gallery Image 2" loading="lazy" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
                 </div>
@@ -267,7 +269,7 @@
             <!-- Image 3 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/23644832723525520908.webp" class="img-fluid rounded shadow" alt="Gallery Image 3" 
+                    <img src="images/extra/overview-.jpg" class="img-fluid rounded shadow" alt="Gallery Image 3" 
                     loading="lazy"  style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -276,7 +278,7 @@
             <!-- Image 4 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/571842830124306861806.webp" class="img-fluid rounded shadow" alt="Gallery Image 4" loading="lazy" 
+                    <img src="images/extra/gallery5-.jpg" class="img-fluid rounded shadow" alt="Gallery Image 4" loading="lazy" 
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -285,7 +287,7 @@
             <!-- Image 5 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/2108169006176269239501.webp" class="img-fluid rounded shadow" alt="Gallery Image 5" loading="lazy"
+                    <img src="images/extra/emaar-amaris-indoor-amenities.webp" class="img-fluid rounded shadow" alt="Gallery Image 5" loading="lazy"
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -294,7 +296,7 @@
             <!-- Image 6 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/968918846174753764002.webp" class="img-fluid rounded shadow" alt="Gallery Image 6" loading="lazy"
+                    <img src="images/extra/emaar-amaris-outdoor-amenities.webp" class="img-fluid rounded shadow" alt="Gallery Image 6" loading="lazy"
                         style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -303,7 +305,7 @@
             <!-- Image 7 -->
             <div class="col-md-3">
                 <div style="overflow: hidden; border-radius: 10px; height: 250px;">
-                    <img src="images/extra/emaar-amaris-gallery-image-3.webp" class="img-fluid rounded shadow" alt="Gallery Image 5"
+                    <img src="images/extra/gallery2.jpg" class="img-fluid rounded shadow" alt="Gallery Image 5"
                     loading="lazy" style="width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s ease-in-out;"
                         onmouseover="this.style.transform='scale(1.05)'" 
                         onmouseout="this.style.transform='scale(1)'">
@@ -341,14 +343,20 @@
                         </tr>
                     </thead>
                     <tbody>
+                        
                         <tr>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;">3BHK</td>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;">1450 SQ.FT Onwards</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;"> Type A- 3BHK</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;">1593  SQ.FT Onwards</td>
                             <td style="border: 2px solid #c79c3d; padding: 12px;">Call For Price</td>
                         </tr>
                         <tr>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;"> 3 BHK+Study</td>
-                            <td style="border: 2px solid #c79c3d; padding: 12px;">1850  SQ.FT Onwards</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;"> Type B- 3BHK</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;">1503  SQ.FT Onwards</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;">Call For Price</td>
+                        </tr>
+                        <tr>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;"> Type C- 3BHK</td>
+                            <td style="border: 2px solid #c79c3d; padding: 12px;">1359  SQ.FT Onwards</td>
                             <td style="border: 2px solid #c79c3d; padding: 12px;">Call For Price</td>
                         </tr>
                     </tbody>
@@ -361,7 +369,7 @@
             </div>
             <!-- Right Side - Single Floor Plan Image -->
             <div style="width: 100%; max-width: 500px; flex: 1; text-align: center;">
-                <img src="images/extra/I11808128139SSCendanaBrochure_page-0018.jpg" alt="Floor Plan"data-bs-toggle="modal"data-bs-target="#contactModal" 
+                <img src="images/extra/903588488.webp" alt="Floor Plan"data-bs-toggle="modal"data-bs-target="#contactModal" 
                      style="width: 100%; height: auto; border-radius: 10px;object-fit: contain; max-height: 500px;">
             </div>
         </div>
@@ -418,24 +426,28 @@
         <div class="row align-items-center justify-content-center"> 
             <!-- Left Column: Image (Now First) -->
             <div class="col-md-6 text-center">
-                <img src="images/extra/highlight.jpg" alt="Overview Image" class="img-fluid" 
+                <img src="images/extra/highlight-.jpg" alt="Overview Image" class="img-fluid" 
                      style="max-width: 100%; height: 400px; object-fit: cover; border-radius: 10px; 
                             box-shadow: 3px 8px 10px rgba(0, 0, 0, 0.4);">
             </div>
             <!-- Right Column: Content -->
             <div class="col-md-6">
-            <h2 style="font-style: italic; color: #1c355e;">HIGHLIGHTS - </h2>
+            <h2 style="font-style: italic; color: #1c355e;">HIGHLIGHTS </h2>
 <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; font-size: 15px;">🏛 <strong>Grand Club House:</strong> Spans approximately 40,000 sq. ft. with world-class amenities.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌳 <strong>10 Acres of Green Spaces:</strong> Beautifully landscaped surroundings for serene living.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">📐 <strong>Apartment Sizes:</strong> Ranging from 1450 to 1850 sq. ft. for spacious, luxurious living.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏊 <strong>Clubhouse with Swimming Pool:</strong> Relax and rejuvenate with a dip anytime you like.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>10 Residential Towers:</strong> A thoughtfully planned premium development.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🛋 <strong>Large Pre-function Lobby:</strong> Includes a stylish and multi-purpose hall for events.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🌬 <strong>Clean Air Measures:</strong> Features like salt lamps and beeswax candles in common areas for fresh air quality.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🚗 <strong>Spacious Car Parking:</strong> Adequate and well-planned parking facilities for all residents.</li>
-    <li style="margin-bottom: 10px; font-size: 15px;">🏠 <strong>Signature Living:</strong> SS Cendana Residences Sector 83 Gurgaon is a unique and exquisite residential property.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏢 <strong>8 Acres Project:</strong> Sprawling project with expansive space.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏞️ <strong>1.5 Acres Park:</strong> Large, lush green park within the premises.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏡 <strong>25,000 Sq.Ft. Club House:</strong> State-of-the-art clubhouse offering luxurious amenities.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🍽️ <strong>Modular Kitchen:</strong> Fully equipped kitchen with high-end fittings.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🌀 <strong>VRV in All Rooms:</strong> Advanced air conditioning system for optimal comfort.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">👗 <strong>All Room Wardrobe with Dresser:</strong> Stylish and functional storage solutions.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🔌 <strong>100% Power Backup:</strong> Uninterrupted power supply for a seamless living experience.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">📞 <strong>Video Calling Security:</strong> Advanced security with video calling features for added safety.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🛗 <strong>2 Private Lifts for 8 Units:</strong> Exclusive lifts for each set of 8 units for privacy and convenience.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🏠 <strong>Additional Room in Basement:</strong> Extra space for storage or use as needed.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">🌳 <strong>Terrace Space for Everyone:</strong> Shared outdoor space for relaxation and socializing.</li>
+    <li style="margin-bottom: 10px; font-size: 15px;">📑 <strong>HRERA No: 47 of 2023:</strong> Registered under the Haryana Real Estate Regulatory Authority for transparency.</li>
 </ul>
+
 
 
 
@@ -454,14 +466,21 @@
         <!-- Left Content -->
         <div style="flex: 1 1 400px; max-width: 500px;">
         <h2 style="font-style: italic; color: #1c355e; margin-bottom: 20px;">Location Advantages</h2>
-<h3 style="font-style: italic; color: #1c355e;">LEADING CONNECTIVITY</h3>
 <ul style="list-style: none; padding-left: 0;">
-    <li style="margin-bottom: 10px; font-size: 16px;">📍 <strong>Prime Location:</strong> Located in Sector 83, New Gurugram, SS Cendana Residence is within minutes of NH 48, Dwarka Expressway, and all the well-established social infrastructure of the buzzing millennium city.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">🚗 <strong>3 Mins From Dwarka Expressway:</strong> Effortless access to one of the key expressways in the region.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">🚘 <strong>5 Mins From NH-48 (NH-08):</strong> Easy connectivity to the national highway for smooth travel.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">🚦 <strong>10 Mins From Rajiv Chowk:</strong> Quick commute to one of the most well-known junctions in the city.</li>
-    <li style="margin-bottom: 10px; font-size: 16px;">✈ <strong>25 Mins From IGI Airport:</strong> Hassle-free travel with quick access to the international airport.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🛣️ <strong>Bang on 99-Meter Road:</strong> Prime location with excellent road connectivity.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🚗 <strong>0 KM from Dwarka Expressway:</strong> Direct access to the expressway for smooth connectivity.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🏙️ <strong>Close to Commercial Project:</strong> Nearby commercial developments offer convenience.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🏢 <strong>Big Brand Luxury Project Nearby:</strong> Surrounded by high-end residential and commercial developments.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">👨‍👩‍👧‍👦 <strong>More Than 20,000 People Living Nearby:</strong> A thriving residential area with a vibrant community.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">✈️ <strong>IGI Airport – 10 Minutes:</strong> Quick and easy access to the airport.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🚇 <strong>Proposed Metro in the Vicinity:</strong> Future metro connectivity for added convenience.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🚙 <strong>10 Minutes from Delhi-Gurgaon Border:</strong> Easy access to both Delhi and Gurgaon.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🏢 <strong>DLF Cyber Hub – 30 Minutes:</strong> Major business hub within reach.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🛣️ <strong>10-15 Minutes from NH-8:</strong> Quick access to National Highway 8.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">💼 <strong>Sector 106 Emerging as IT Destination:</strong> Becoming a hub for IT companies and professionals.</li>
+    <li style="margin-bottom: 10px; font-size: 16px;">🚗 <strong>IMT Manesar – 20 Minutes:</strong> Convenient access to the industrial hub of Manesar.</li>
 </ul>
+
 
 
             <!-- Button -->
@@ -469,7 +488,7 @@
         </div>
         <!-- Right Side - Image -->
         <div style="flex: 1 1 400px; max-width: 500px;">
-            <img src="images/extra/SS-Cendana-Residence-Location-Map-1536x1102.webp" alt="Location Map" data-bs-toggle="modal" data-bs-target="#contactModal"  
+            <img src="images/extra/MRG-Crown-Location-Map.webp" alt="Location Map" data-bs-toggle="modal" data-bs-target="#contactModal"  
             style="width: 100%; border-radius: 10px; box-shadow: 5px 5px 15px rgba(0,0,0,0.2); ">
         </div>
     </div>
