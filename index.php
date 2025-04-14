@@ -9,33 +9,58 @@
     }
 </style>
 <p>&nbsp;</p><p>&nbsp;</p>
-        <!-- Header Start -->
-        <div class="container-fluid header bg-white p-0">
-            <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
-                <div class="col-md-6 p-5 mt-lg-5">
-                <h1 class="display-5 animated fadeIn mb-4">Trusted <span class="text-primary">real estate partner</span> in Gurgaon for every space you need.</h1>
 
+<!-- Header Start -->
+<div class="container-fluid header bg-white p-0">
+  <div class="row g-0 align-items-center flex-column-reverse flex-md-row">
+    
+    <div class="col-md-6 p-5 mt-lg-5 position-relative">
+      
+      <!-- 🔥 Updated Animated Sticker -->
+      <div class="position-absolute top-0 start-0 mt-0 ms-5 px-4 py-2 bg-danger bg-gradient text-white fw-semibold rounded-pill shadow-lg z-3 d-flex align-items-center animate__animated animate__bounceInLeft animate__slow animate__repeat-2">
+  <i class="fas fa-rocket me-2"></i><a href="upcoming_projects.php" class="text-white"> Upcoming Projects</a>
+</div>
 
-                    <p class="animated fadeIn mb-4 pb-2"> Since 2014, we’ve been helping families buy, sell & lease homes and commercial spaces with trust and ease.
-                    <br>If you need important information or personalized assistance, just click below to get started.</p>
-                    <a href="#" class="btn btn-primary py-3 px-5 me-3 animated fadeIn" data-bs-toggle="modal" data-bs-target="#enquiryModal">
-    Get Started
-</a>
+      <h1 class="display-5 animate__animated animate__fadeIn mb-4 mt-5 pt-4">
+        Trusted <span class="text-primary">real estate partner</span> in Gurgaon for every space you need.
+      </h1>
 
-                </div>
-                <div class="col-md-6 animated fadeIn">
-                    <div class="owl-carousel header-carousel">
-                        <div class="owl-carousel-item">
-                            <img class="img-fluid" src="images/carousel-1.jpg" alt="">
-                        </div>
-                        <div class="owl-carousel-item">
-                            <img class="img-fluid" src="images/carousel-2.jpg" alt="">
-                        </div>
-                    </div>
-                </div>
-            </div>
+      <p class="animate__animated animate__fadeIn mb-4 pb-2">
+        Since 2014, we’ve been helping families buy, sell & lease homes and commercial spaces with trust and ease.
+        <br>If you need important information or personalized assistance, just click below to get started.
+      </p>
+
+      <a href="#" class="btn btn-primary py-3 px-5 me-3 animate__animated animate__fadeIn" data-bs-toggle="modal" data-bs-target="#enquiryModal">
+        Get Started.
+      </a>
+
+    </div>
+
+    <div class="col-md-6 animate__animated animate__fadeIn">
+      <div id="headerCarousel" class="carousel slide" data-bs-ride="carousel">
+        <div class="carousel-inner">
+          <div class="carousel-item active">
+            <img class="d-block w-100" src="images/carousel-1.jpg" alt="First slide">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="images/carousel-2.jpg" alt="Second slide">
+          </div>
         </div>
-        <!-- Header End -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#headerCarousel" data-bs-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Previous</span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#headerCarousel" data-bs-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="visually-hidden">Next</span>
+        </button>
+      </div>
+    </div>
+    
+  </div>
+</div>
+<!-- End Header Start -->
+
 <!-- Enquiry Modal -->
 <div class="modal fade" id="enquiryModal" tabindex="-1" aria-labelledby="enquiryModalLabel" aria-hidden="true">
 <div class="modal-dialog modal-dialog-centered" style="margin-top: 70px;">
@@ -803,47 +828,47 @@
 
         <?php include 'footer.php'; ?>
 
-<!-- footer end -->
 
-<!-- enquiry form javascript-->
-<script>
-//   document.addEventListener("DOMContentLoaded", function () {
-//     var enquiryModal = new bootstrap.Modal(document.getElementById('enquiryModal'));
-//     enquiryModal.show();
-//   });
-// </script> <script>
-//   document.addEventListener("DOMContentLoaded", function () {
-//     document.querySelectorAll(".toggle-btn").forEach(button => {
-//       button.addEventListener("click", function () {
-//         var targetId = this.getAttribute("data-target"); // ID dynamically get karega
-//         var target = document.getElementById(targetId);
-
-//         if (!target) return;
-
-//         var collapseInstance = bootstrap.Collapse.getOrCreateInstance(target);
-
-//         // Close all other open dropdowns
-//         document.querySelectorAll(".collapse.show").forEach(openDropdown => {
-//           if (openDropdown !== target) {
-//             bootstrap.Collapse.getOrCreateInstance(openDropdown).hide();
-//             let openButton = openDropdown.closest(".card").querySelector(".toggle-btn");
-//             if (openButton) openButton.innerText = "View Details"; 
-//           }
-//         });
-
-//         // Toggle the clicked dropdown
-//         if (target.classList.contains("show")) {
-//           collapseInstance.hide();
-//           this.innerText = "View Details";
-//         } else {
-//           collapseInstance.show();
-//           this.innerText = "Hide Details";
-//         }
-//       });
-//     });
-//   });
+        <script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var enquiryModal = new bootstrap.Modal(document.getElementById('enquiryModal'));
+    enquiryModal.show();
+  });
 </script>
-<!--end enquiry form javascript-->
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const detailButtons = document.querySelectorAll('.detail-button');
+
+    detailButtons.forEach(button => {
+      button.addEventListener('click', function (event) {
+        const targetId = this.getAttribute('data-bs-target');
+        const collapseElement = document.querySelector(targetId);
+        const collapseInstance = bootstrap.Collapse.getOrCreateInstance(collapseElement);
+
+        // Update text of other open buttons
+        detailButtons.forEach(otherButton => {
+          if (otherButton !== this && otherButton.getAttribute('aria-expanded') === 'true') {
+            otherButton.innerText = "View Details";
+            const otherTargetId = otherButton.getAttribute('data-bs-target');
+            const otherCollapseElement = document.querySelector(otherTargetId);
+            const otherCollapseInstance = bootstrap.Collapse.getOrCreateInstance(otherCollapseElement);
+            otherCollapseInstance.hide();
+          }
+        });
+
+        // Toggle the clicked dropdown
+        if (collapseElement.classList.contains("show")) {
+          collapseInstance.hide();
+          this.innerText = "View Details";
+        } else {
+          collapseInstance.show();
+          this.innerText = "Hide Details";
+        }
+      });
+    });
+  });
+</script>
 
 
         <!-- Back to Top -->

@@ -1026,7 +1026,7 @@
  <div class="col-md-6 col-lg-4 mb-4">
                 <div class="card shadow-sm border-0">
                     <a href="mapsko-the-icon-sector-79-gurgaon.php">
-                        <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                        <img src="images/extra/936.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Mapsko The ICON 79, Sector 79, Gurgaon</h5>
@@ -1041,7 +1041,7 @@
  <div class="col-md-6 col-lg-4 mb-4">
                 <div class="card shadow-sm border-0">
                     <a href="mrg-crown-sector-106-gurgaon.php">
-                        <img src="images/extra/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                        <img src="images/extra/overview-.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">MRG Crown, Sector 106, Gurgaon</h5>
@@ -1052,10 +1052,65 @@
                 </div>
             </div>
 
+<!-- Property 69 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="chintamanis-sector-103.php">
+                        <img src="images/extra/JLL_Gurgaon_Oxirich Chintamani_8783_EXT_2.png" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Oxirich Chintamanis - Sector 103</h5>
+                        <a href="chintamanis-sector-103.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails69">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
 
+            <!-- Property 70 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="sg-city-93.php">
+                        <img src="images/extra/STREET-VIEW.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">SIGNATURE GLOBAL CITY 93</h5>
+                        <a href="sg-city-93.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails70">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
 
+            <!-- Property 71 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="sg-city-79b.php">
+                        <img src="images/extra/SG-City-79b-min.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Signature Global City 79 - B</h5>
+                        <a href="sg-city-79b.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails71">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
 
-
+ <!-- Property 72 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="dlf-the-arbour-sector-63-gurgaon.php">
+                        <img src="images/extra/dlf-new-launch-sec-63-1.jpeg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">DLF THE Arbour</h5><br>
+                        <a href="v.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails72">
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
 
 
 

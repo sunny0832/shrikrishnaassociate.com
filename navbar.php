@@ -21,6 +21,8 @@
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
+<!-- Required CDNs -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
 
     <script src="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.js"></script>
 
@@ -97,19 +99,30 @@
             <div class="navbar-nav ms-auto">
                 <a href="index.php" class="nav-item nav-link active">Home</a>
                 <div class="nav-item dropdown">
-                    <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Projects</a>
+                    <a href="Latest_Residential_Properties.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Residential</a>
                     <div class="dropdown-menu rounded-0 m-0">
-                        <a class="dropdown-item dropdown-toggle">Residential</a>
-                        <div class="dropdown-menu rounded-0 m-0">
-                            <a href="affordable-projects.php" class="dropdown-item">Affordable</a>
-                            <a href="luxury-projects.php" class="dropdown-item">Luxury</a>
-                        </div>
+                        <a href="affordable-projects.php" class="dropdown-item">Affordable</a>
+                        <a href="luxury.php" class="dropdown-item">Luxury Projects</a>
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="Latest_Residential_Properties.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Commercial</a>
+                    <div class="dropdown-menu rounded-0 m-0">
+                        <a href="affordable-society-shops.php" class="dropdown-item">Affordabl Society Shops</a>
+                        <a href="#" class="dropdown-item">High Street Commercial Mall</a>
+                    </div>
+                </div>
+                <div class="nav-item dropdown">
+                    <a href="all_projects.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">All Projects</a>
+                    <div class="dropdown-menu rounded-0 m-0">
+                        <a href="Latest_Residential_Properties.php" class="dropdown-item">Residential</a>
                         <a href="commercial.php" class="dropdown-item">Commercial</a>
+                        <a href="luxury.php" class="dropdown-item">Luxuary</a>
                         <a href="Ongoing_projects.php" class="dropdown-item">Ongoing Projects</a>
+                        <a href="upcoming_projects.php" class="dropdown-item">Upcoming projects</a>
                         <a href="plots.php" class="dropdown-item">Plot</a>
                     </div>
                 </div>
-                <a href="all_projects.php" class="nav-item nav-link">All Projects</a>
                 <a href="about.php" class="nav-item nav-link">About</a>
                 <a href="contact.php" class="nav-item nav-link">Contact</a>
             </div>
