@@ -19,7 +19,7 @@
                     <p class="animated fadeIn mb-4 pb-2"> Since 2014, we’ve been helping families buy, sell & lease homes and commercial spaces with trust and ease.
                     <br>If you need important information or personalized assistance, just click below to get started.</p>
                     <a href="#" class="btn btn-primary py-3 px-5 me-3 animated fadeIn" data-bs-toggle="modal" data-bs-target="#enquiryModal">
-    Get Started
+    Get Started.
 </a>
 
                 </div>
