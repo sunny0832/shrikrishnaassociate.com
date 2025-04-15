@@ -103,6 +103,7 @@
                     <div class="dropdown-menu rounded-0 m-0">
                         <a href="affordable-projects.php" class="dropdown-item">Affordable</a>
                         <a href="luxury.php" class="dropdown-item">Luxury Projects</a>
+                        <a href="residential-ready-to-move-projects.php" class="dropdown-item">Ready To Move</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">
