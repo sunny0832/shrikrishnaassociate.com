@@ -22,18 +22,10 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City of Colours</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails1" aria-expanded="false" aria-controls="propertyDetails1">
+                        <a href="city-of-colours.php">  <button class="btn btn-primary btn-sm" type="button" >
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails1">
-                            <div class="card card-body">
-                                <p><strong>Signature Global's "City of Colours"</strong> spans 129 acres, offering residential, commercial, and industrial plots with extensive green spaces along NH-8.</p>
-                                <p><strong>Typology:</strong> Residential, Commercial, Industrial Plots</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> Residential Plots</p>
-                                <a href="city-of-colours.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
+            
                     </div>
                 </div>
             </div>
@@ -46,18 +38,9 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global DAXIN</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails2" aria-expanded="false" aria-controls="propertyDetails2">
+                        <a href="daxin-gurugram-x-factor.php"><button class="btn btn-primary btn-sm" type="button" >
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails2">
-                            <div class="card card-body">
-                                <p><strong>Signature Global's Daxin Gurugram X-Factor</strong> is an upcoming residential project with futuristic architecture and modern amenities.</p>
-                                <p><strong>Typology:</strong> EPP Plots, Premium Independent Floors</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="daxin-gurugram-x-factor.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -70,18 +53,9 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global Titanium SPR</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails3" aria-expanded="false" aria-controls="propertyDetails3">
+                        <a href="titanium-spr.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails3">
-                            <div class="card card-body">
-                                <p>Like the very essence of its namesake metal, Signature Global Titanium SPR at Sector 71, Gurugram stands as a testament to strength, durability and prestige, promising a sanctuary of enduring quality and timeless elegance.</p>
-                                <p><strong>Typology:</strong> 3.5 BHK, 4.5 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> High Rise Apartments</p>
-                                <a href="titanium-spr.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -94,18 +68,9 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global Twin Tower DXP</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails4" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="twin-tower-dxp.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails4">
-                            <div class="card card-body">
-                                <p><strong>Signature Global Twin Tower DXP</strong> is a premium residential project on Dwarka Expressway with advanced amenities.</p>
-                                <p><strong>Typology:</strong> 3 & 4 BHK Apartments</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> High Rise Apartments</p>
-                                <a href="twin-tower-dxp.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>  
@@ -144,19 +109,9 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">DE-LUXE DXP</h5><br>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails6" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="signatureglobal-deluxe.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails6">
-                            <div class="card card-body">
-                                <p>DE-LUXE DXP stands out as a double podium based project, a distinctive feature that sets it apart in Gurugram.</p>
-                                <p><strong>Typology:</strong> 	
-                                3.5 bhk, 4.5 bhk</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> High Rise Apartments</p>
-                                <a href="signatureglobal-deluxe.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -171,19 +126,9 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 79B </h5><br>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails7" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city-79b.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails7">
-                            <div class="card card-body">
-                                <p>An urban residential complex that blends modern living with the rustic charm of the Aravallis and the soothing feel of nature.</p>
-                                <p><strong>Typology:</strong> 2BHK, 3BHK & 3BHK + Study</p>
-                                <p><strong>Status:</strong> On-Going
-                               </p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="sg-city-79b.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -198,20 +143,9 @@
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 93
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails8" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city-93.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails8">
-                            <div class="card card-body">
-                                <p>A luxurious abode within nature's calming embrace, featuring amenities that refresh your soul and offer a serene experience.</p>
-                                <p><strong>Typology:</strong> 	
-                                	2BHK, 3BHK & 3BHK + Study</p>
-                                <p><strong>Status:</strong>On-Going</p>
-                                <p><strong>Category:</strong> 	
-                                Low Rise Premium Independent Floors</p>
-                                <a href="sg-city-93.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -225,20 +159,9 @@
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 92 - 2
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails9" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city-92-2.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails9">
-                            <div class="card card-body">
-                                <p>This residential complex rejuvenates and refreshes your mind with the essence of serenity in nature's closeness.</p>
-                                <p><strong>Typology:</strong> 	
-                                		2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong>On-Going</p>
-                                <p><strong>Category:</strong> 	
-                                	Low Rise Premium Independent Floors</p>
-                                <a href="sg-city-92-2.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -253,19 +176,9 @@
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 63A
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails10" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city-63a.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails10">
-                            <div class="card card-body">
-                                <p>Signature Global offers you high-quality, luxury apartments at a green, urban location. Interior styling by the renowned interior designer Sonali Bhagwati, these apartments are envisioned to be the embodiment of perfection like a solitaire.Signature Global offers you high-quality, luxury apartments at a green, urban location. Interior styling by the renowned interior designer Sonali Bhagwati, these apartments are envisioned to be the embodiment of perfection like a solitaire.</p>
-                                <p><strong>Typology:</strong> 	
-                                		2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong>On-Going</p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="sg-city-63a.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -279,18 +192,9 @@
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 37D II
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails11" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city-37d2.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails11">
-                            <div class="card card-body">
-                                <p>The premium independent floors here offer a modern lifestyle, spread across 5.62 acres surrounded by a lush green landscape, So that you can truly start an independent life, while building a legacy for your loved ones.</p>
-                                <p><strong>Typology:</strong> 2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="sg-city-37d2.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -306,20 +210,9 @@
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 92
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails13" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city-92.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails13">
-                            <div class="card card-body">
-                                <p>This residential complex rejuvenates and refreshes your mind with the essence of serenity in nature's closeness.</p>
-                                <p><strong>Typology:</strong> 	
-                                2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> 	
-                                	Low Rise Premium Independent Floors</p>
-                                <a href="sg-city-92.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -333,19 +226,9 @@
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 81
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails14" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city81.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails14">
-                            <div class="card card-body">
-                                <p>Give your life the experience of luxurious and comfortable living in modern and urban setting, perfect for your peace and harmony.</p>
-                                <p><strong>Typology:</strong> 	
-                                2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="sg-city81.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -359,19 +242,9 @@
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City 37D
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails15" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sg-city-37d.php"> <button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails15">
-                            <div class="card card-body">
-                                <p>The project is spread across 20.5 acres of land, offering urban ambience and peace of mind for a hassle-free life.</p>
-                                <p><strong>Typology:</strong> 	
-                                2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="sg-city-37d.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -386,19 +259,9 @@
                         <h5 class="card-title text-primary">Signature Global Park IV & V
 
                         </h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails16" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="global-park4and5.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails16">
-                            <div class="card card-body">
-                                <p>Experience a luxurious life in the lush green environment with ultimate amenities for the well-being of every individual.</p>
-                                <p><strong>Typology:</strong> 	
-                                2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="global-park4and5.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -411,19 +274,10 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global Park</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails17" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="global-park.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails17">
-                            <div class="card card-body">
-                                <p>A home that offer the perfect blend of nature, impeccable amenities and an elite lifestyle for everyone.</p>
-                                <p><strong>Typology:</strong> 	
-                                2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong> Low Rise Premium Independent Floors</p>
-                                <a href="global-park.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
+                        
                     </div>
                 </div>
             </div>
@@ -462,19 +316,9 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Signature Global City Karnal</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails19" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="signature-global-city.php"><button class="btn btn-primary btn-sm" type="button">
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails19">
-                            <div class="card card-body">
-                                <p>Classically styled homes with luxurious amenities for an unparalleled experience, offering cosmopolitan and convenient environment.</p>
-                                <p><strong>Typology:</strong> 	
-                                2 BHK & 3 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong>Residential Plots</p>
-                                <a href="signature-global-city.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
@@ -487,23 +331,317 @@
                     </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Sunrise The Premium Floors</h5>
-                        <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails20" aria-expanded="false" aria-controls="propertyDetails4">
+                        <a href="sunrise-the-premium-floors.php"><button class="btn btn-primary btn-sm" type="button" >
                             View Details
-                        </button>
-                        <div class="collapse mt-2" id="propertyDetails20">
-                            <div class="card card-body">
-                                <p>The property is the epitome of serenity, situated in a lavish green zone for a refreshing and vibrant environment.</p>
-                                <p><strong>Typology:</strong> 	
-                                2 BHK</p>
-                                <p><strong>Status:</strong> On-Going</p>
-                                <p><strong>Category:</strong>	
-                                Low Rise Premium Independent Floors</p>
-                                <a href="sunrise-the-premium-floors.php" class="btn btn-outline-primary btn-sm">Know More</a>
-                            </div>
-                        </div>
+                        </button></a>
                     </div>
                 </div>
             </div>
+
+            <!-- Property 21 -->
+  <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="true-habitat-luxe-residency-112.php">
+                        <img src="images/on_going_project/True-Habitat-Bodh-112-Gurugram.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">True Habitat Luxe Residency</h5>
+                        <a href="true-habitat-luxe-residency-112.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 22 -->
+  <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="lid-green-valley-sector-35-sohna.php">
+                        <img src="images/on_going_project/cf60e2b57f50a18.jpeg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Lion Infra Green Valley</h5>
+                        <a href="lid-green-valley-sector-35-sohna.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Property 23 -->
+  <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="conscient-parq-sector-80-gurgaon.php">
+                        <img src="images/on_going_project/Conscient-Parq-Image-1.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Conscient Parq</h5>
+                        <a href="conscient-parq-sector-80-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 24 -->
+  <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="signature-global-park-4-5-sector-36-gurgaon.php">
+                        <img src="images/on_going_project/Elevations_0003_View-08.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Signature Global Park 4 & 5</h5>
+                        <a href="signature-global-park-4-5-sector-36-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 25 -->
+  <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="m3m-crown.php">
+                        <img src="images/on_going_project/m3m-altitude.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">M3M Crown</h5><br>
+                        <a href="m3m-crown.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+ <!-- Property 26 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="trehan-valley-sector-35-sohna.php">
+                        <img src="images/on_going_project/BLF-Nature-Valley.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Trehan Valley
+                        </h5><br>
+                        <a href="trehan-valley-sector-35-sohna.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 27 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="adore-the-select-premia.php">
+                        <img src="images/on_going_project/Adore-The-Select-Premia-Sector-77-Gurgaon-1.avif" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Adore The Select Premia, Sector 77,
+                        </h5>
+                        <a href="adore-the-select-premia.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 28 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="raheja-india-rashtra.php">
+                        <img src="images/on_going_project/txevsyriiwjignolojnh.jpeg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Raheja India Rashtra</h5>
+                        <a href="raheja-india-rashtra.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 29 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="birla-navya-avik-phase-1.php">
+                        <img src="images/on_going_project/1698217208Gallery1.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Birla Navya Avik Phase 1</h5>
+                        <a href="birla-navya-avik-phase-1.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 30 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="smart-world-one-dxp.php">
+                        <img src="images/on_going_project/Smart-World-One-DXP-.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Smart World One DXP
+                        </h5>
+                        <a href="smart-world-one-dxp.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 31 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="m3m-capital.php">
+                        <img src="images/on_going_project/m3m-capital-banner-32686.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">M3M Capital
+                        </h5>
+                        <a href="m3m-capital.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Property 32 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="puri-the-aravallis.php">
+                        <img src="images/on_going_project/puri-the-araval-main-1734591564.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Puri The Aravallis
+                        </h5>
+                        <a href="puri-the-aravallis.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 33 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="godrej-connaught-one.php">
+                        <img src="images/on_going_project/yjsyapux9c9fbabyo2rx.jpeg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Godrej Connaught One
+                        </h5>
+                        <a href="godrej-connaught-one.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+<!-- Property 34 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="tarc-tripundra.php">
+                        <img src="images/on_going_project/Zen_Garden.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Tarc Tripundra
+                        </h5>
+                        <a href="tarc-tripundra.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 35 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="birla-estates-navya-sector-63a-gurgaon.php">
+                        <img src="images/on_going_project/unnamed.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Birla Estates Navya</h5>
+                        <a href="birla-estates-navya-sector-63a-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Property 36 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="tulip-monsella.php">
+                        <img src="images/on_going_project/Tulip-Monsella-Image-1-1024x683.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Tulip Monsella</h5>
+                        <a href="tulip-monsella.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 37 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="bptp-green-oaks.php">
+                        <img src="images/on_going_project/JLL_Gurgaon_BPTP Green Oaks_7736_EXT_1.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">BPTP Green Oaks, Sec.70A</h5>
+                        <a href="bptp-green-oaks.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 38 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="m3m-soulitude-city-of-dreams-sector-89-gurgaon.php">
+                        <img src="images/on_going_project/61d7f0dd00171.png" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">M3M Soulitude Floors</h5>
+                        <a href="m3m-soulitude-city-of-dreams-sector-89-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+<!-- Property 39 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="4s-developers-aradhya-homes.php">
+                        <img src="images/on_going_project/1687766164418-4S-Aradhya-Homes-banner-image.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">4S Developers Aradhya Homes</h5>
+                        <a href="4s-developers-aradhya-homes.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
 
         </div>
     </div>

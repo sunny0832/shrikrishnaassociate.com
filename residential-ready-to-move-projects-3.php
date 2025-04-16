@@ -58,23 +58,23 @@
       <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="m3m-marina-Sector-68-in-gurgaon.php">
-              <img src="images\ready-to-move-projects\M3M-Ikonic.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="m3m-polo-suites.php">
+              <img src="images\ready-to-move-projects\M3M-Polo-Suites.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="m3m-marina-Sector-68-in-gurgaon.php" class="text-decoration-none text-dark">
-                M3M Ikonic
+                <a href="m3m-polo-suites.php" class="text-decoration-none text-dark">
+                M3M Polo Suites
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 68, Gurugram, Haryana 122101, India</p>
-              <p class="card-text mb-1">Rs.7,950* Per Sq.Ft</p>
-              <h6 class="text-primary">Beds: 3Baths: 3sqft: 1914</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 65, Gurugram, Haryana 122102, India</p>
+              <p class="card-text mb-1">Rs.5.50 Crore Onwards</p>
+              <h6 class="text-primary">Beds: 3/4Baths: 3/4sqft: 3980</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Ready to Move Projects</p>
+                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -88,23 +88,23 @@
  <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="dlf-kings-court-greater-kailash.php">
-              <img src="images\ready-to-move-projects\DLF-Kings-Court-Delhi.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="dlf-camellias-sector-42-gurgaon.php">
+              <img src="images\ready-to-move-projects\DLF-Camellias.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="dlf-kings-court-greater-kailash.php" class="text-decoration-none text-dark">
-                DLF Kings Court
+                <a href="dlf-camellias-sector-42-gurgaon.php" class="text-decoration-none text-dark">
+                M3M Polo Suites
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Greater Kailash-2, New Delhi, Delhi, India</p>
-              <p class="card-text mb-1">Rs.47,000 Per Sq.Ft</p>
-              <h6 class="text-primary">Beds: 3/4/5Baths: 3/4/5sqft: 2466</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 42, Gurugram, 122002, India</p>
+              <p class="card-text mb-1">Rs.23 Cr* Onwards</p>
+              <h6 class="text-primary">Beds: 4/5Baths: 4/5sqft: 7361</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential Ready to Move Projects</p>
+                <p>Residential, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -118,21 +118,20 @@
 <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="dlf-the-crest-Sector-54-gurgaon.php">
-              <img src="images\ready-to-move-projects\DLF-The-Crest.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="experion-the-heartsong.php">
+              <img src="images\ready-to-move-projects\Experion-The-Heartsong-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="dlf-the-crest-Sector-54-gurgaon.php" class="text-decoration-none text-dark">
-                DLF The Crest
+                <a href="experion-the-heartsong.php" class="text-decoration-none text-dark">
+                Experion The Heartsong
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 54, Gurugram, Haryana, India</p>
-              <p class="card-text mb-1">Rs.3.80 Crore Onwards</p>
-              <h6 class="text-primary">Beds: 3/4/5Baths: 3/4/5sqft: 2662</h6>
+              <p class="card-text mb-1">Rs.82 Lac* Onwards</p>
+              <h6 class="text-primary">Beds: 2/3/4Baths: 2/3/4sqft: 1283</h6>
               <div class="d-flex justify-content-between mt-3">
                 <p>Residential, Residential Ready to Move Projects</p>
               </div>
@@ -144,27 +143,27 @@
         </div>
       </div>
 
-<!-- Card 4 -->
+      <!-- Card 4 -->
 <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="godrej-icon.php">
-              <img src="images\ready-to-move-projects\Godrej-Icon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="dlf-new-town-heights.php">
+              <img src="images\ready-to-move-projects\DLF-New-Town-Heights.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="godrej-icon.php" class="text-decoration-none text-dark">
-                Experion Windchants
+                <a href="dlf-new-town-heights.php" class="text-decoration-none text-dark">
+                DLF New Town Heights
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 88A, Gurugram, Haryana 122505, India</p>
-              <p class="card-text mb-1">PRICE ON CALL</p>
-              <h6 class="text-primary">Beds: 2/3/4/5Baths: 2/3/4/5sqft: 2275</h6>
+              <p class="card-text mb-1">Rs.1.98 Crore Onwards</p>
+              <p>Sector 90, Gurugram, Haryana 122505, India</p>
+              <h6 class="text-primary">Beds: 4Baths: 4sqft: 3421</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Ready to Move Projects</p>
+                <p>Residential, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -174,57 +173,58 @@
         </div>
       </div>
 
-<!-- Card 5 -->
-<div class="card mb-4">
-        <div class="row g-0">
-          <div class="col-md-4">
-            <a href="godrej-aria-sector-79-gurgaon.php">
-              <img src="images\ready-to-move-projects\Godrej-Aria-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
-            </a>
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="godrej-aria-sector-79-gurgaon.php" class="text-decoration-none text-dark">
-                Godrej Aria
-                  <span class="badge bg-warning text-dark float-end">Ready To Move</span>
-                </a>
-              </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 79, Gurugram, Haryana, India</p>
-              <p class="card-text mb-1">Rs.1.07 Crore Onwards</p>
-              <h6 class="text-primary">Beds: 3Baths: 3sqft: 1989</h6>
-              <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
-              </div>
-              <div class="text-end mt-3">
-                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <!-- Card 5 -->
-<div class="card mb-4">
+      <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="aipl-the-peaceful-homes.php">
-              <img src="images\ready-to-move-projects\AIPL-The-Peaceful-Homes-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="chintels-paradiso-sector-109-gurgaon.php">
+              <img src="images\ready-to-move-projects\Chintels-Paradiso.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="aipl-the-peaceful-homes.php" class="text-decoration-none text-dark">
-                AIPL The Peaceful Homes
+                <a href="chintels-paradiso-sector-109-gurgaon.php" class="text-decoration-none text-dark">
+                Chintels Paradiso
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Secto r 70A, Gurugram, Haryana 122101, India</p>
-              <p class="card-text mb-1">Rs.1.07 Crore Onwards</p>
-              <h6 class="text-primary">Beds: 3Baths: 3sqft: 1989</h6>
+              <p class="card-text mb-1">Rs.85.68 Lakh Onwards</p>
+              <p>Sector 109, Gurugram, Haryana 122017, India</p>
+              <h6 class="text-primary">Beds: 4Baths: 4sqft: 3421</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
+                <p>Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
+              </div>
+              <div class="text-end mt-3">
+                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+ 
+<!-- Card 6 -->
+<div class="card mb-4">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <a href="mapsko-mount-ville.php">
+              <img src="images\ready-to-move-projects\Mapsko-Mount-Ville-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="mapsko-mount-ville.php" class="text-decoration-none text-dark">
+                Mapsko Mount Ville
+                  <span class="badge bg-warning text-dark float-end">Ready To Move</span>
+                </a>
+              </h5>
+              <p class="card-text mb-1">Rs.93.7 Lakh Onwards</p>
+              <p>Sector 109, Gurugram, Haryana 122017, India</p>
+              <h6 class="text-primary">Beds: 3/4Baths: 3/4sqft: 1490</h6>
+              <div class="d-flex justify-content-between mt-3">
+                <p>Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -234,27 +234,27 @@
         </div>
       </div>
 
-      <!-- Card 6 -->
+      <!-- Card 7 -->
 <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="ats-triumph.php">
-              <img src="images\ready-to-move-projects\ATS-Triumph-385x258.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="tata-raisina-residency.php">
+              <img src="images\ready-to-move-projects\Tata-Raisina-Residency.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="ats-triumph.php" class="text-decoration-none text-dark">
-                ATS Triumph
+                <a href="tata-raisina-residency.php" class="text-decoration-none text-dark">
+                Mapsko Mount Ville
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 104, Gurugram, Haryana 122006, India</p>
-              <p class="card-text mb-1">Rs.1.70 Crore Onwards</p>
-              <h6 class="text-primary">Beds: 3/4Baths: 3/4sqft: 2290</h6>
+              <p class="card-text mb-1">Rs.10,800 Per Sq.Ft</p>
+              <p>Sector 59, Gurugram, Haryana 122102, India</p>
+              <h6 class="text-primary">sqft: 1705</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
+                <p>Residential, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -264,36 +264,7 @@
         </div>
       </div>
 
-        <!-- Card 6 -->
-<div class="card mb-4">
-        <div class="row g-0">
-          <div class="col-md-4">
-            <a href="ats-triumph.php">
-              <img src="images\ready-to-move-projects\ATS-Triumph-385x258.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
-            </a>
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="ats-triumph.php" class="text-decoration-none text-dark">
-                ATS Triumph
-                  <span class="badge bg-warning text-dark float-end">Ready To Move</span>
-                </a>
-              </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 104, Gurugram, Haryana 122006, India</p>
-              <p class="card-text mb-1">Rs.1.70 Crore Onwards</p>
-              <h6 class="text-primary">Beds: 3/4Baths: 3/4sqft: 2290</h6>
-              <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
-              </div>
-              <div class="text-end mt-3">
-                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
+ 
     </div>
   </div>
 </div>
@@ -331,7 +302,6 @@
 </div>
 
 
-<!-- Pagination Start -->
 <?php
 // Set current page based on filename
 $currentPage = 1; // default page
@@ -342,12 +312,11 @@ if (preg_match('/residential-ready-to-move-projects-(\d+)/', $basename, $matches
     $currentPage = (int)$matches[1];
 }
 
-$totalPages = 3;
+$totalPages = 6; // Updated totalPages to 6
 ?>
 <nav aria-label="Page navigation">
   <ul class="pagination justify-content-center my-4">
 
-    <!-- Previous -->
     <li class="page-item <?= $currentPage <= 1 ? 'disabled' : '' ?>">
       <?php
         if ($currentPage == 2) {
@@ -363,7 +332,6 @@ $totalPages = 3;
       </a>
     </li>
 
-    <!-- Page Numbers -->
     <?php for ($i = 1; $i <= $totalPages; $i++): ?>
       <?php
         $link = $i == 1 ? 'residential-ready-to-move-projects.php' : "residential-ready-to-move-projects-$i.php";
@@ -373,7 +341,6 @@ $totalPages = 3;
       </li>
     <?php endfor; ?>
 
-    <!-- Next -->
     <li class="page-item <?= $currentPage >= $totalPages ? 'disabled' : '' ?>">
       <?php
         if ($currentPage == 1) {
@@ -391,8 +358,6 @@ $totalPages = 3;
 
   </ul>
 </nav>
-<!-- Pagination End -->
-
 <?php include "footer.php" ?>
 <!-- Bootstrap JS Bundle -->
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
