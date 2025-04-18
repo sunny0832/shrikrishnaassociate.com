@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>commercial affordable-society-shops</title>
+  <title>commercial high-street-commercial-mall</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -72,24 +72,24 @@
       <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="wal-walk-street-92.php">
-              <img src="images\commercial\Walk-Street-Sector-92-Gurgaon.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="the-omaxe-state.php">
+              <img src="images\commercial\1-7.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="wal-walk-street-92.php" class="text-decoration-none text-dark">
-                Wal Walk Street 92
+                <a href="the-omaxe-state.php" class="text-decoration-none text-dark">
+                The Omaxe State 
                   <span class="badge bg-warning text-dark float-end">New Launch</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i> Sector-92, Gurgaon</p>
-              <p class="card-text mb-1">Affordable Projects, Residential</p>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i> Dwarka, Delhi</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
               <p class="card-text"><small class="text-muted">1 weeks ago</small></p>
-              <h6 class="text-primary">Price On Call</h6>
+              <h6 class="text-primary">37.5 Lakh*</h6>
               <div class="d-flex justify-content-between mt-3">
-                <small><strong>Area:</strong>400-800</small>
+                <small><strong>Area:</strong>50-8000</small>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -99,28 +99,28 @@
         </div>
       </div>
 
-      <!-- Card 2 -->
-      <div class="card mb-4">
+     <!-- Card 2 -->
+     <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="4s-aster-walk.php">
-              <img src="images\commercial\2-5.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="ss-whitewater.php">
+              <img src="images\commercial\1-3.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="4s-aster-walk.php" class="text-decoration-none text-dark">
-                4S Aster Walk
+                <a href="ss-whitewater.php" class="text-decoration-none text-dark">
+                SS Whitewater
                   <span class="badge bg-warning text-dark float-end">New Launch</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector-36, Sohna</p>
-              <p class="card-text mb-1">Affordable Projects, Residential</p>
-              <p class="card-text"><small class="text-muted">6 months</small></p>
-              <h6 class="text-primary">61 Lakh*</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector-90, Gurgaon</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
+              <p class="card-text"><small class="text-muted">10 months ago</small></p>
+              <h6 class="text-primary">75 Lakhs*</h6>
               <div class="d-flex justify-content-between mt-3">
-                <small><strong>Area:</strong>382</small>
+                <small><strong>Area:</strong>465-3500/small>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -131,27 +131,27 @@
       </div>
 
       <!-- Card 3 -->
-      <div class="card mb-4">
+     <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="gls-elitaire-sector-81-gurgaon.php">
-              <img src="images\commercial\1-1.png" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="raheja-the-delhi-mall.php">
+              <img src="images\commercial\1-7.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="gls-elitaire-sector-81-gurgaon.php" class="text-decoration-none text-dark">
-                GLS Elitaire 81
+                <a href="raheja-the-delhi-mall.php" class="text-decoration-none text-dark">
+                Raheja The Delhi Mall
                   <span class="badge bg-warning text-dark float-end">New Launch</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector-81, Gurgaon</p>
-              <p class="card-text mb-1">Affordable Projects, Residential</p>
-              <p class="card-text"><small class="text-muted">2 years</small></p>
-              <h6 class="text-primary">45 Lacs*</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i> Delhi</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
+              <p class="card-text"><small class="text-muted">1 years ago</small></p>
+              <h6 class="text-primary">62.50 Lakh*</h6>
               <div class="d-flex justify-content-between mt-3">
-                <small><strong>Area:</strong>350</small>
+                <small><strong>Area:</strong>50-500</small>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -161,121 +161,28 @@
         </div>
       </div>
 
-        <!-- Card 4 -->
-        <div class="card mb-4">
+  <!-- Card 4 -->
+  <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="rajvik-plaza-sector-79b-gurgaon.php">
-              <img src="images\commercial\Untitled-design-2023-03-06T124101.086.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="aipl-joy-central.php">
+              <img src="images\commercial\Untitled-design-_45_.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="rajvik-plaza-sector-79b-gurgaon.php" class="text-decoration-none text-dark">
-                Rajvik Plaza 
+                <a href="aipl-joy-central.php" class="text-decoration-none text-dark">
+                AIPL Joy Central
                   <span class="badge bg-warning text-dark float-end">New Launch</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 79b, Gurgaon</p>
-              <p class="card-text mb-1">Affordable Society Shops, Commercial</p>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector-65, Gurgaon</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
               <p class="card-text"><small class="text-muted">2 years ago</small></p>
-              <h6 class="text-primary">53 Lacs*</h6>
+              <h6 class="text-primary">62.50 Lakh*</h6>
               <div class="d-flex justify-content-between mt-3">
-                <small><strong>Area:</strong>306-778</small>
-              </div>
-              <div class="text-end mt-3">
-                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-       <!-- Card 5 -->
-       <div class="card mb-4">
-        <div class="row g-0">
-          <div class="col-md-4">
-            <a href="rof-galleria-sector-108-society-shops.php">
-              <img src="images\commercial\Featured-Image-ROF-Galleria-108.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
-            </a>
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="rof-galleria-sector-108-society-shops.php" class="text-decoration-none text-dark">
-                ROF Galleria 108
-                  <span class="badge bg-warning text-dark float-end">New Launch</span>
-                </a>
-              </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 108, Gurgaon</p>
-              <p class="card-text mb-1">Commercial, Affordable Society Shops</p>
-              <p class="card-text"><small class="text-muted">2 years ago</small></p>
-              <h6 class="text-primary">14750/Sq.Ft.</h6>
-              <div class="d-flex justify-content-between mt-3">
-                <small><strong>Area:</strong>300</small>
-              </div>
-              <div class="text-end mt-3">
-                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-        <!-- Card 6 -->
-        <div class="card mb-4">
-        <div class="row g-0">
-          <div class="col-md-4">
-            <a href="gls-hub-86.php">
-              <img src="images\commercial\Untitled-design-2024-03-12T162958.802.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
-            </a>
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="gls-hub-86.php" class="text-decoration-none text-dark">
-                GLS HUB 86
-                  <span class="badge bg-warning text-dark float-end">New Launch</span>
-                </a>
-              </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 86, Gurgaon</p>
-              <p class="card-text mb-1">Commercial, Affordable Society Shops</p>
-              <p class="card-text"><small class="text-muted">2 years ago</small></p>
-              <h6 class="text-primary">13,500 /Sq.Ft.</h6>
-              <div class="d-flex justify-content-between mt-3">
-                <small><strong>Area:</strong>250</small>
-              </div>
-              <div class="text-end mt-3">
-                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-       <!-- Card 7  -->
-       <div class="card mb-4">
-        <div class="row g-0">
-          <div class="col-md-4">
-            <a href="rof-galleria-93-society.php">
-              <img src="images\commercial\ROF-Galleria-93-Society-Shops-2-768x545.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
-            </a>
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="rof-galleria-93-society.php" class="text-decoration-none text-dark">
-                ROF Galleria 93
-                  <span class="badge bg-warning text-dark float-end">New Launch</span>
-                </a>
-              </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i> Sector 93, Gurgaon</p>
-              <p class="card-text mb-1">Commercial, Affordable Society Shops</p>
-              <p class="card-text"><small class="text-muted">4 years ago</small></p>
-              <h6 class="text-primary">13250/Sq.Ft.</h6>
-              <div class="d-flex justify-content-between mt-3">
-                <small><strong>Area:</strong>281-305</small>
+                <small><strong>Area:</strong>250-1400</small>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -337,6 +244,10 @@
     </div>
   </div>
 </div>
+
+<!-- pagination -->
+<?php include "pagination.php" ?>
+
 
 <?php include "footer.php" ?>
 <!-- Bootstrap JS Bundle -->

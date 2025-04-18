@@ -634,14 +634,192 @@
             </div>
 
 
+            <!-- Property 40 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="bptp-102-eden-estate-sector-102-gurgaon.php">
+                        <img src="images/on_going_project/BPTP-102-Eden-Estate.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">BPTP 102 Eden Estate Plots</h5>
+                        <a href="bptp-102-eden-estate-sector-102-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+<!-- Property 41 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="dlf-alameda-floors.php">
+                        <img src="images/on_going_project/dlf-alameda-floors-banner-70825.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">DLF Alameda Floors</h5>
+                        <a href="dlf-alameda-floors.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+<!-- Property 42 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="m3m-sky-city-sector-65-gurgaon.php">
+                        <img src="images/on_going_project/skycity_highlights.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">M3M Sky City</h5>
+                        <a href="m3m-sky-city-sector-65-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 43 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="godrej-serenity-sector-33-sohna.php">
+                        <img src="images/on_going_project/image5456.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;">
+                    </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Gоdrej Serenity</h5>
+                        <a href="godrej-serenity-sector-33-sohna.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+<!-- Property 44 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="ss-linden-floors.php">
+                        <img src="images/on_going_project/5157d.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">SS Linden Floors</h5>
+                        <a href="ss-linden-floors.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 45 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="ashiana-anmol-sector-33-sohna.php">
+                        <img src="images/on_going_project/JLL_Gurgaon_Ashiana.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Ashiana Anmol</h5>
+                        <a href="ashiana-anmol-sector-33-sohna.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Property 46 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="godrej-habitat-sector-3-gurgaon.php">
+                        <img src="images/on_going_project/cf5c9070faa42f5.jpeg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Godrej Habitat</h5>
+                        <a href="godrej-habitat-sector-3-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 47 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="godrej-meridien-sector-106.php">
+                        <img src="images/on_going_project/home-page-banner.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Godrej Meridien</h5>
+                        <a href="godrej-meridien-sector-106.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Property 48 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="godrej-south-estate-okhla-delhi.php">
+                        <img src="images/on_going_project/godrej-south-estate-banner.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Godrej South Estate</h5>
+                        <a href="godrej-south-estate-okhla-delhi.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 49 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="godrej-nature-plus-sector-33-south-of-gurgaon.php">
+                        <img src="images/on_going_project/6.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Godrej Nature Plus</h5>
+                        <a href="godrej-nature-plus-sector-33-south-of-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+<!-- Property 50 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="emaar-emerald-nuevo-sector-65-gurgaon.php">
+                        <img src="images/on_going_project/banner.jpg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Emaar Emerald Nuevo</h5>
+                        <a href="emaar-emerald-nuevo-sector-65-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
 
 
+            <!-- Property 51 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="central-park-bellavista-towers-sector-48-gurgaon.php">
+                        <img src="images/on_going_project/central-park-bellavista-banner.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Central Park Bellavista Towers</h5>
+                        <a href="central-park-bellavista-towers-sector-48-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
 
-
-
-
-
-
+            <!-- Property 52 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="conscient-hines-elevate-sector-59-gurgaon.php">
+                        <img src="images/on_going_project/conscient-hines-elevate-sector-59-gurgaon-4.jpeg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Conscient Hines Elevate</h5>
+                        <a href="conscient-hines-elevate-sector-59-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
 
         </div>
     </div>

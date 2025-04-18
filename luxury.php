@@ -119,7 +119,7 @@
                         <img src="images/extra/1734154358265-front.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Elan The Emperor</h5><br>
+                        <h5 class="card-title text-primary">Elan The Emperor</h5>
                         <a href="elan-the-emperor.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails7">
                             View Details
                         </button></a>
@@ -150,7 +150,7 @@
                         <img src="images/extra/20722Whiteland-The-Aspen-Gurgaon-sector76.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Emaar Urban Ascent Sector 112</h5><br>
+                        <h5 class="card-title text-primary">Emaar Urban Ascent Sector 112</h5>
                         <a href="Emaar Urban Ascent.php">  <button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails9">
                             View Details
                         </button></a>
@@ -309,7 +309,7 @@
                         <img src="images/extra/SS-Sector-90-Residential-Project-Gurgaon.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">SS Camasa Sector 90</h5><br>
+                        <h5 class="card-title text-primary">SS Camasa Sector 90</h5>
                         <a href="ss-camasa-sector-90-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails19">
                             View Details
                         </button></a>
@@ -339,7 +339,7 @@
                         <img src="images/extra/4S-The-Aurrum-Sector-59-Gurgaon-1.avif" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">4S The Aurrum</h5><br>
+                        <h5 class="card-title text-primary">4S The Aurrum</h5>
                         <a href="4s-the-aurrum.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails21">
                             View Details
                         </button></a>
@@ -354,7 +354,7 @@
                         <img src="images/extra/1920x1080-1.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Adani Lushlands</h5><br>
+                        <h5 class="card-title text-primary">Adani Lushlands</h5>
                         <a href="adani-lushlands-gwal-pahari.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails22">
                             View Details
                         </button></a>
@@ -369,7 +369,7 @@
                         <img src="images/extra/17.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Amara Floors</h5><br>
+                        <h5 class="card-title text-primary">Amara Floors</h5>
                         <a href="amara-floors.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails23">
                             View Details
                         </button></a>
@@ -399,7 +399,7 @@
                         <img src="images/extra/ashiana-amarah-luxurious-3-4-BHK-apartments-in-gurgaon-img1012s.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Ashiana Amarah Phase  3</h5><br>
+                        <h5 class="card-title text-primary">Ashiana Amarah Phase  3</h5>
                         <a href="ashiana-amarah-phase-3.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails25">
                             View Details
                         </button></a>
@@ -414,7 +414,7 @@
                         <img src="images/extra/ashiana-amarah-luxurious-3-4-BHK-apartments-in-gurgaon-img1012s.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Ashiana Amarah Phase 4</h5><br>
+                        <h5 class="card-title text-primary">Ashiana Amarah Phase 4</h5>
                         <a href="ashiana-amarah-phase-4.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails26">
                             View Details
                         </button></a>
@@ -429,7 +429,7 @@
                         <img src="images/extra/Ashiana-Mulberry-Blossom-Sector-2-Sohna.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Ashiana Mulberry Blossom</h5><br>
+                        <h5 class="card-title text-primary">Ashiana Mulberry Blossom</h5>
                         <a href="ashiana-mulberry-blossom.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails27">
                             View Details
                         </button></a>
@@ -444,7 +444,7 @@
                         <img src="images/extra/2024-10-22_11-42-34_bptptheamaariobanner.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">BPTP The Amaario</h5><br>
+                        <h5 class="card-title text-primary">BPTP The Amaario</h5>
                         <a href="bptp-the-amaario.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails28">
                             View Details
                         </button></a>
@@ -459,7 +459,7 @@
                         <img src="images/extra/CBS-Luxury-Floors-63A-image-7-.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">CBS Luxury Floors 63A</h5><br>
+                        <h5 class="card-title text-primary">CBS Luxury Floors 63A</h5>
                         <a href="cbs-luxury-floors.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails29">
                             View Details
                         </button></a>
@@ -474,7 +474,7 @@
                         <img src="images/extra/x8txt3mhpk4uv7c0gxkq.jpeg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Conscient Parq</h5><br>
+                        <h5 class="card-title text-primary">Conscient Parq</h5>
                         <a href="conscient-parq.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails30">
                             View Details
                         </button></a>
@@ -489,7 +489,7 @@
                         <img src="images/extra/Project-Photo-63-DLF-.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">DLF Privana South</h5><br>
+                        <h5 class="card-title text-primary">DLF Privana South</h5>
                         <a href="dlf-privana-south.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails31">
                             View Details
                         </button></a>
@@ -504,7 +504,7 @@
                         <img src="images/extra/Project-Photo-63-DLF-.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">DLF Privana North</h5><br>
+                        <h5 class="card-title text-primary">DLF Privana North</h5>
                         <a href="dlf-privana-west.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails32">
                             View Details
                         </button></a>
@@ -654,7 +654,7 @@
                         <img src="images/extra/11.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">ILD Grand 37C</h5><BR>
+                        <h5 class="card-title text-primary">ILD Grand 37C</h5>
                         <a href="ild-grand-37c.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails42">
                             View Details
                         </button></a>
@@ -684,7 +684,7 @@
                         <img src="images/extra/banner-1.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Laburnum Victory Floors</h5><BR>
+                        <h5 class="card-title text-primary">Laburnum Victory Floors</h5><br>
                         <a href="laburnum-victory-floors.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails44">
                             View Details
                         </button></a>
@@ -714,7 +714,7 @@
                         <img src="images/extra/gh-1.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">M3M Golf Hills Sector-79</h5><br>
+                        <h5 class="card-title text-primary">M3M Golf Hills Sector-79</h5>
                         <a href="m3m-golf-hills.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails46">
                             View Details
                         </button></a>
@@ -729,7 +729,7 @@
                         <img src="images/extra/cover_1590315833.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">M3M Heights Gurgaon</h5><br>
+                        <h5 class="card-title text-primary">M3M Heights Gurgaon</h5>
                         <a href="m3m-heights.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails47">
                             View Details
                         </button></a>
@@ -759,7 +759,7 @@
                         <img src="images/extra/rc5ecd2zuylwq6zlk6qe.jpeg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Max Estate 360</h5><br>
+                        <h5 class="card-title text-primary">Max Estate 360</h5>
                         <a href="max-estate-360.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails49">
                             View Details
                         </button></a>
@@ -774,7 +774,7 @@
                         <img src="images/extra/Paras-The-Manor.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Paras Manor</h5><br>
+                        <h5 class="card-title text-primary">Paras Manor</h5>
                         <a href="paras-the-manor.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails50">
                             View Details
                         </button></a>
@@ -849,7 +849,7 @@
                         <img src="images/extra/89.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Sobha Altus</h5><br>
+                        <h5 class="card-title text-primary">Sobha Altus</h5>
                         <a href="sobha-altus.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails55">
                             View Details
                         </button></a>
@@ -864,7 +864,7 @@
                         <img src="images/extra/sobha-aranya-main-banner-1.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Sobha Aranya</h5><br>
+                        <h5 class="card-title text-primary">Sobha Aranya</h5>
                         <a href="sobha-aranya.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails56">
                             View Details
                         </button></a>
@@ -894,7 +894,7 @@
                         <img src="images/extra/sector-63a-gurugram-night-view.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="tarc-ishva.php">Tarc Ishva</h5><br>
+                        <h5 class="tarc-ishva.php">Tarc Ishva</h5>
                         <a href="smart-world-the-edition.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails58">
                             View Details
                         </button></a>
@@ -909,7 +909,7 @@
                         <img src="images/extra/desktop-banner-titanium-160125.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Titanium Spr</h5><br>
+                        <h5 class="card-title text-primary">Titanium Spr</h5>
                         <a href="titanium-spr.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails59">
                             View Details
                         </button></a>
@@ -924,7 +924,7 @@
                         <img src="images/extra/file-8647328849.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Trehan Luxury Floors 63A</h5><br>
+                        <h5 class="card-title text-primary">Trehan Luxury Floors 63A</h5>
                         <a href="trehan-luxury-floors-sector-63a.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails60">
                             View Details
                         </button></a>
@@ -939,7 +939,7 @@
                         <img src="images/extra/file-5827328850.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Trehan Sector 71 Gurgaon</h5><br>
+                        <h5 class="card-title text-primary">Trehan Sector 71 Gurgaon</h5>
                         <a href="trehan-luxury-floors-sector-71.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails">
                             View Details
                         </button></a>
@@ -954,7 +954,7 @@
                         <img src="images/extra/q49dy9od7ygss5onqayf.webp" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Trevoc Royal Residences</h5><br>
+                        <h5 class="card-title text-primary">Trevoc Royal Residences</h5>
                         <a href="trevoc-royal-residences.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails62">
                             View Details
                         </button></a>
@@ -1044,7 +1044,7 @@
                         <img src="images/extra/overview-.jpg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">MRG Crown, Sector 106, Gurgaon</h5>
+                        <h5 class="card-title text-primary">MRG Crown, Sector 106, Gurgaon</h5><br>
                         <a href="mrg-crown-sector-106-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails68">
                             View Details
                         </button></a>
@@ -1059,7 +1059,7 @@
                         <img src="images/extra/JLL_Gurgaon_Oxirich Chintamani_8783_EXT_2.png" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">Oxirich Chintamanis - Sector 103</h5>
+                        <h5 class="card-title text-primary">Oxirich Chintamanis - Sector 103</h5><br>
                         <a href="chintamanis-sector-103.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails69">
                             View Details
                         </button></a>
@@ -1104,23 +1104,13 @@
                         <img src="images/extra/dlf-new-launch-sec-63-1.jpeg" class="card-img-top img-fluid" alt="DELUXE DXP Commercial" style="height: 300px; object-fit: cover;">
                     </a>
                     <div class="card-body">
-                        <h5 class="card-title text-primary">DLF THE Arbour</h5><br>
+                        <h5 class="card-title text-primary">DLF THE Arbour</h5>
                         <a href="v.php"><button class="btn btn-primary btn-sm" type="button" data-bs-toggle="collapse" data-bs-target="#propertyDetails72">
                             View Details
                         </button></a>
                     </div>
                 </div>
             </div>
-
-
-
-
-
-
-
-
-
-
         </div>
     </section>
 

@@ -58,23 +58,23 @@
       <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="central-park-3-flower-valley-flamingo.php">
-              <img src="images\ready-to-move-projects\Central-Park-Flower-Valley-Flamingo-Floors-Sohna.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="orchid-island-sector-51-gurgaon.php">
+              <img src="images\ready-to-move-projects\Orchid-Island-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="central-park-3-flower-valley-flamingo.php" class="text-decoration-none text-dark">
-                Central Park Flower Valley Flamingo Floors
+                <a href="orchid-island-sector-51-gurgaon.php" class="text-decoration-none text-dark">
+                Orchid Island
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sohna Road, Sector 33, Sohna, Haryana 122102, India</p>
-              <p class="card-text mb-1">Rs.87.60 Lakh Onwards</p>
-              <h6 class="text-primary">Beds: 2/3Baths: 2/3sqft: 1093</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 51, Gurugram, Haryana 122003, India</p>
+              <p class="card-text mb-1">Rs.80 Lakh Onwards</p>
+              <h6 class="text-primary">Beds: 2/3/4Baths: 2/3/4sqft: 958</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Floors, Residential, Residential Ready to Move Projects</p>
+                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -88,23 +88,23 @@
   <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="m3m-woodshire-sector-107.php">
-              <img src="images\ready-to-move-projects\M3M-Woodshire-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="m3m-st-andrews-golf-residences.php">
+              <img src="images\ready-to-move-projects\M3M-St.Andrews-Golf-Residences.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="m3m-woodshire-sector-107.php" class="text-decoration-none text-dark">
-                M3M Woodshire
+                <a href="m3m-st-andrews-golf-residences.php" class="text-decoration-none text-dark">
+                Sector 65, Gurugram, Haryana 122102, India
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 107, Gurugram, Haryana, India</p>
-              <p class="card-text mb-1">Rs.86. 62 Lakh Onwards</p>
-              <h6 class="text-primary">Beds: 2/3Baths: 2/3sqft: 1386</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 51, Gurugram, Haryana 122003, India</p>
+              <p class="card-text mb-1">Rs.9.10 Crore Onwards</p>
+              <h6 class="text-primary">Beds: 4/5Baths: 4/5sqft: 6365</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Ready to Move Projects</p>
+                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -114,27 +114,27 @@
         </div>
       </div>
 
-  <!-- Card 3 -->
+      <!-- Card 3 -->
   <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="emaar-imperial-gardens.php">
-              <img src="images\ready-to-move-projects\Emaar-Imperial-Gardens-1.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="m3m-escala-sector-70A-in-gurgaon.php">
+              <img src="images\ready-to-move-projects\M3M-Escala.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="emaar-imperial-gardens.php" class="text-decoration-none text-dark">
-                Emaar Imperial Gardens
+                <a href="m3m-escala-sector-70A-in-gurgaon.php" class="text-decoration-none text-dark">
+                Sector 65, Gurugram, Haryana 122102, India
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 102, Gurugram, Haryana 122006, India</p>
-              <p class="card-text mb-1">Rs.1.27 Crore Onwards</p>
-              <h6 class="text-primary">Beds: 3Baths: 3sqft: 2000</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 70A, Gurugram, Haryana 122101, India</p>
+              <p class="card-text mb-1">Rs.95 Lakh Onwards</p>
+              <h6 class="text-primary">Beds: 2/3/4Baths: 2/3/4sqft: 1475</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Apartment, Residential, Residential Ready to Move Projects</p>
+                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -144,25 +144,25 @@
         </div>
       </div>
 
-      <!-- Card 4 -->
+        <!-- Card 4 -->
   <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="central-park-resorts-ii-beau.php">
-              <img src="images\ready-to-move-projects\Central-Park-Resorts-Beau-Villas-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="supertech-araville.php">
+              <img src="images\ready-to-move-projects\Supertech-Araville-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="central-park-resorts-ii-beau.php" class="text-decoration-none text-dark">
-                Central Park Resorts Beau Villas
+                <a href="supertech-araville.php" class="text-decoration-none text-dark">
+                Supertech Araville
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sohna Rd, Sector 48, Gurugram, Haryana, India</p>
-              <p class="card-text mb-1">Rs.2.29 Crore Onwards</p>
-              <h6 class="text-primary">Rs.2.29 Crore Onwards</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 79, Gurugram, Haryana, India</p>
+              <p class="card-text mb-1">Rs.74.46 Lakh Onwards</p>
+              <h6 class="text-primary">Beds: 2/3/4Baths: 2/3/4sqft: 1295</h6>
               <div class="d-flex justify-content-between mt-3">
                 <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
               </div>
@@ -178,23 +178,23 @@
   <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="satya-element-one-service-apartments.php">
-              <img src="images\ready-to-move-projects\Satya-Element-One-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="central-park-resorts-ii-the-room.php">
+              <img src="images\ready-to-move-projects\Central-Park-Resorts-II-The-Room-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="satya-element-one-service-apartments.php" class="text-decoration-none text-dark">
-                Satya Element One
+                <a href="central-park-resorts-ii-the-room.php" class="text-decoration-none text-dark">
+                Central Park Resorts The Room
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 47 and 49, Malibu Town, Sector 47, </p>
-              <p class="card-text mb-1">Rs.15,750 Per Sq.Ft.</p>
-              <h6 class="text-primary">sqft: 400</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 48, Gurugram, Haryana, India</p>
+              <p class="card-text mb-1">Rs.1.16 Crore Onwards</p>
+              <h6 class="text-primary">Bed: 1Bath: 1sqft: 834</h6>
               <div class="d-flex justify-content-between mt-3">
-                <p>Commercial, Residential Completed Projects, Residential Ready to Move Projects</p>
+                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
               </div>
               <div class="text-end mt-3">
                 <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
@@ -208,51 +208,21 @@
   <div class="card mb-4">
         <div class="row g-0">
           <div class="col-md-4">
-            <a href="orris-aster-court.php">
-              <img src="images\ready-to-move-projects\Orris-Aster-Court.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            <a href="emaar-mgf-palm-gardens.php">
+              <img src="images\ready-to-move-projects\Emaar-MGF-Palm-Gardens.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
             </a>
           </div>
           <div class="col-md-8">
             <div class="card-body">
               <h5 class="card-title">
-                <a href="orris-aster-court.php" class="text-decoration-none text-dark">
-                Satya Element One
+                <a href="emaar-mgf-palm-gardens.php" class="text-decoration-none text-dark">
+                Central Park Resorts II Belgravia
                   <span class="badge bg-warning text-dark float-end">Ready To Move</span>
                 </a>
               </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 85, Gurugram, Haryana 122004, India</p>
-              <p class="card-text mb-1">Rs.78 Lakh Onwards*</p>
-              <h6 class="text-primary">Beds: 2/3/4Baths: 2/3/4sqft: 1712</h6>
-              <div class="d-flex justify-content-between mt-3">
-                <p>Residential, Residential Ready to Move Projects</p>
-              </div>
-              <div class="text-end mt-3">
-                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-       <!-- Card 7 -->
-  <div class="card mb-4">
-        <div class="row g-0">
-          <div class="col-md-4">
-            <a href="central-park-resorts-ii-belgravia.php">
-              <img src="images\ready-to-move-projects\Central-Park-Resorts-Belgravia-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
-            </a>
-          </div>
-          <div class="col-md-8">
-            <div class="card-body">
-              <h5 class="card-title">
-                <a href="central-park-resorts-ii-belgravia.php" class="text-decoration-none text-dark">
-                Central Park Resorts Belgravia
-                  <span class="badge bg-warning text-dark float-end">Ready To Move</span>
-                </a>
-              </h5>
-              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 48, Gurugram, Haryana, India</p>
-              <p class="card-text mb-1">Rs.1.82 Crore Onwards</p>
-              <h6 class="text-primary">Beds: 2/3/4Baths: 2/3/4sqft: 1418</h6>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 83, Gurugram, Haryana 122004, India</p>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Rs.1 Crore Onwards</p>
+              <h6 class="text-primary">Beds: 3/5Baths: Emaar-MGF-Palm-Gardens-Gurgaonsqft: 1720</h6>
               <div class="d-flex justify-content-between mt-3">
                 <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
               </div>
@@ -264,7 +234,37 @@
         </div>
       </div>
 
- 
+ <!-- Card 7 -->
+ <div class="card mb-4">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <a href="godrej-oasis-sector-88a-gurgaon.php">
+              <img src="images\ready-to-move-projects\Godrej-Oasis-Gurgaon.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="godrej-oasis-sector-88a-gurgaon.php" class="text-decoration-none text-dark">
+                Godrej Oasis
+                  <span class="badge bg-warning text-dark float-end">Ready To Move</span>
+                </a>
+              </h5>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector 88A, Gurugram, Haryana 122505, India</p>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Rs.78 Lakh Onwards</p>
+              <h6 class="text-primary">Beds: 2/3Baths: 2/3sqft: 1307</h6>
+              <div class="d-flex justify-content-between mt-3">
+                <p>Apartment, Residential, Residential Completed Projects, Residential Ready to Move Projects</p>
+              </div>
+              <div class="text-end mt-3">
+                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
     </div>
   </div>
 </div>
@@ -312,7 +312,7 @@ if (preg_match('/residential-ready-to-move-projects-(\d+)/', $basename, $matches
     $currentPage = (int)$matches[1];
 }
 
-$totalPages = 5; // Updated totalPages to 6 
+$totalPages = 5; // Updated totalPages to 6
 ?>
 <nav aria-label="Page navigation">
   <ul class="pagination justify-content-center my-4">

@@ -110,7 +110,7 @@
                     <a href="Latest_Residential_Properties.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Commercial</a>
                     <div class="dropdown-menu rounded-0 m-0">
                         <a href="affordable-society-shops.php" class="dropdown-item">Affordabl Society Shops</a>
-                        <a href="#" class="dropdown-item">High Street Commercial Mall</a>
+                        <a href="high-street-commercial-mall.php" class="dropdown-item">High Street Commercial Mall</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">
