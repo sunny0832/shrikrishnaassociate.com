@@ -192,6 +192,130 @@
         </div>
       </div>
 
+ <!-- Card 5 -->
+ <div class="card mb-4">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <a href="omaxe-chandni-chowk.php">
+              <img src="images\commercial\Untitled-design-53.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="omaxe-chandni-chowk.php" class="text-decoration-none text-dark">
+                Omaxe Chandni Chowk
+                  <span class="badge bg-warning text-dark float-end">New Launch</span>
+                </a>
+              </h5>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Chandni Chowk, Delhi</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
+              <p class="card-text"><small class="text-muted">2 years ago</small></p>
+              <h6 class="text-primary">60 Lacs*</h6>
+              <div class="d-flex justify-content-between mt-3">
+                <small><strong>Area:</strong>244-1116</small>
+              </div>
+              <div class="text-end mt-3">
+                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+       <!-- Card 6 -->
+ <div class="card mb-4">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <a href="elan-the-mark-sector-106.php">
+              <img src="images\commercial\Untitled-design-2023-06-10T165116.012-1.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="elan-the-mark-sector-106.php" class="text-decoration-none text-dark">
+                Elan The Mark
+                  <span class="badge bg-warning text-dark float-end">New Launch</span>
+                </a>
+              </h5>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i>Sector-106, Gurgaon</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
+              <p class="card-text"><small class="text-muted">2 years ago</small></p>
+              <h6 class="text-primary">1.00 Cr*</h6>
+              <div class="d-flex justify-content-between mt-3">
+                <small><strong>Area:</strong>800-2200</small>
+              </div>
+              <div class="text-end mt-3">
+                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+       <!-- Card 7 -->
+ <div class="card mb-4">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <a href="smart-world-one-dxp-street.php">
+              <img src="images\commercial\Untitled-design-40-2.jpg" class="img-fluid rounded-start" alt="Wal Verde 92">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="smart-world-one-dxp-street.php" class="text-decoration-none text-dark">
+                Smart World One DXP Street
+                  <span class="badge bg-warning text-dark float-end">New Launch</span>
+                </a>
+              </h5>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i> Sector-113, Gurgaon</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
+              <p class="card-text"><small class="text-muted">2 years ago</small></p>
+              <h6 class="text-primary">15,250/Sq.Ft</h6>
+              <div class="d-flex justify-content-between mt-3">
+                <small><strong>Area:</strong>250</small>
+              </div>
+              <div class="text-end mt-3">
+                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+        <!-- Card 8 -->
+ <div class="card mb-4">
+        <div class="row g-0">
+          <div class="col-md-4">
+            <a href="m3m-jewel.php">
+              <img src="images\commercial\M3M-Jewel-Website-Image.webp" class="img-fluid rounded-start" alt="Wal Verde 92">
+            </a>
+          </div>
+          <div class="col-md-8">
+            <div class="card-body">
+              <h5 class="card-title">
+                <a href="m3m-jewel.php" class="text-decoration-none text-dark">
+                M3M Jewel 25
+                  <span class="badge bg-warning text-dark float-end">New Launch</span>
+                </a>
+              </h5>
+              <p class="card-text mb-1"><i class="bi bi-geo-alt-fill"></i> Sector-25, Gurgaon</p>
+              <p class="card-text mb-1">Commercial, High Street Commercial Mall</p>
+              <p class="card-text"><small class="text-muted">2 years ago</small></p>
+              <h6 class="text-primary">35,000 / Sq. Ft.</h6>
+              <div class="d-flex justify-content-between mt-3">
+                <small><strong>Area:</strong>300-1500</small>
+              </div>
+              <div class="text-end mt-3">
+                <button class="btn btn-sm btn-outline-info rounded-pill" data-bs-toggle="modal" data-bs-target="#enquiryModal">Enquire Now</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
 
     </div>
   </div>

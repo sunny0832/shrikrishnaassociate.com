@@ -76,8 +76,8 @@
     <div class="col-md-4"><strong>Area:</strong>250-1400 sqft</div>
   </div>
   <div class="row text-center">
-    <div class="col-md-4"><strong>Type:</strong> Affordable Projects</div>
-    <div class="col-md-4"><strong>Status:</strong>Under Construction</div>
+  <div class="col-md-4"><strong>Type:</strong>Commercial</div>
+  <div class="col-md-4"><strong>Status:</strong>Ready to Move</div>
     <div class="col-md-4"><strong>Location:</strong> Golf Course Extension Road</div>
     <div class="col-md-4 mt-2"><strong>Booking Open:</strong> Yes</div>
   </div>

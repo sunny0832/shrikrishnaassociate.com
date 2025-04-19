@@ -712,7 +712,7 @@
 <div class="col-md-6 col-lg-4 mb-4">
                 <div class="card shadow-sm border-0">
                     <a href="ashiana-anmol-sector-33-sohna.php">
-                        <img src="images/on_going_project/JLL_Gurgaon_Ashiana.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                        <img src="images/on_going_project/JLL_Ggn_Ashiana_.webp" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Ashiana Anmol</h5>
                         <a href="ashiana-anmol-sector-33-sohna.php"><button class="btn btn-primary btn-sm" type="button" >
@@ -811,7 +811,7 @@
 <div class="col-md-6 col-lg-4 mb-4">
                 <div class="card shadow-sm border-0">
                     <a href="conscient-hines-elevate-sector-59-gurgaon.php">
-                        <img src="images/on_going_project/conscient-hines-elevate-sector-59-gurgaon-4.jpeg" class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                        <img src="images/on_going_project/conscient-hines-elevate-sector-59-gurgaon-4.jpeg742317"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
                     <div class="card-body">
                         <h5 class="card-title text-primary">Conscient Hines Elevate</h5>
                         <a href="conscient-hines-elevate-sector-59-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
@@ -820,6 +820,203 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Property 53 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="m3m-trump-towers-sector-65.php">
+                        <img src="images/on_going_project/Trump-Towers-Delhi-NCR-highlights.jpg"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Trump Towers Gurgaon</h5>
+                        <a href="m3m-trump-towers-sector-65.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 54 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="godrej-air-sector-85-new-gurgaon.php">
+                        <img src="images/on_going_project/d3c.webp"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Godrej Air</h5>
+                        <a href="godrej-air-sector-85-new-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 55 -->
+<div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="m3m-duo-high-luxury-sector-65.php">
+                        <img src="images/on_going_project/m3m-duo.jpg"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">M3M Duo High</h5>
+                        <a href="m3m-duo-high-luxury-sector-65.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+ <!-- Property 56 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="dlf-independent-luxury-floors.php">
+                        <img src="images/on_going_project/banner.webp"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">DLF Independent Luxury Floors</h5>
+                        <a href="dlf-independent-luxury-floors.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 57 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="ats-grandstand-sector-99a-gurgaon.php">
+                        <img src="images/on_going_project/ATS-Grandstand-MRE-img-2.jpg"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">ATS Grandstand</h5>
+                        <a href="ats-grandstand-sector-99a-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Property 58 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="sobha-city-gurgaon-sector-108.php">
+                        <img src="images/on_going_project/IN_.jpg"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Sobha City Gurgaon</h5>
+                        <a href="sobha-city-gurgaon-sector-108.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 59 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="suncity-platinum-towers.php">
+                        <img src="images/on_going_project/x0pwvsxsvro55uwetfb9.jpeg"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Suncity Platinum Towers</h5>
+                        <a href="suncity-platinum-towers.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+             <!-- Property 60 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="central-park-flower-valley.php">
+                        <img src="images/on_going_project/1928050009.webp"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Central Park Flower Valley Clover Floors</h5>
+                        <a href="central-park-flower-valley.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 61 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="supertech-viola-towers-sector-68.php">
+                        <img src="images/on_going_project/1928050009.webp"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Central Park Flower Valley Clover Floors</h5>
+                        <a href="supertech-viola-towers-sector-68.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 62 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="chd-y-suites-sector-34-sohna.php">
+                        <img src="images/on_going_project/y-suites-images-for-elevation-of-chd-y-suites-30271268.jpeg"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">CHD Y Suites</h5>
+                        <a href="chd-y-suites-sector-34-sohna.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 63 -->
+ <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="supertech-hill-estate.php">
+                        <img src="images/on_going_project/Supertech-Hill-Estate-sohna.webp"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Supertech Hill Estate</h5>
+                        <a href="supertech-hill-estate.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+
+            <!-- Property 64 -->
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="shapoorji-pallonji-joyville-sector-102-gurgaon.php">
+                        <img src="images/on_going_project/47811deb4d20.jpeg"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Shapoorji Pallonji Joyville</h5>
+                        <a href="shapoorji-pallonji-joyville-sector-102-gurgaon.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Property 65 -->
+            <div class="col-md-6 col-lg-4 mb-4">
+                <div class="card shadow-sm border-0">
+                    <a href="supertech-montana-view-residences-sector-2.php">
+                        <img src="images/on_going_project/supertech_azalia-sector_68_gurgaon-gurgaon-supertech_limited.avif"  class="card-img-top" alt="Signature Global Twin Tower DXP" style="height: 300px; object-fit: cover;"> </a>
+                    <div class="card-body">
+                        <h5 class="card-title text-primary">Supertech Montana View Residences</h5>
+                        <a href="supertech-montana-view-residences-sector-2.php"><button class="btn btn-primary btn-sm" type="button" >
+                            View Details
+                        </button></a>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
         </div>
     </div>

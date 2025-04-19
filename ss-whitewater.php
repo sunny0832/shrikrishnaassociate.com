@@ -42,8 +42,8 @@
 
 <header class="bg-light py-4 text-center">
   <div class="container">
-    <h1 class="text-orange">SS Whitewater</h1>
-    <p class="lead">Sector-90, Gurgaon</p>
+    <h1 class="text-orange">AIPL Joy Central </h1>
+    <p class="lead">Sector-65, Gurgaon</p>
   </div>
 </header>
 
@@ -52,10 +52,10 @@
   <div id="simpleCarousel" class="carousel slide" data-bs-ride="carousel">
     <div class="carousel-inner rounded shadow">
       <div class="carousel-item active">
-        <img src="images/commercial/1-3.jpg" class="d-block w-100" alt="Wal Verde 92 - Image 1" />
+        <img src="images/commercial/Untitled-design-_45_ (1).webp" class="d-block w-100" alt="Wal Verde 92 - Image 1" />
       </div>
       <div class="carousel-item">
-        <img src="images/commercial/2-3.jpg" class="d-block w-100" alt="Wal Verde 92 - Image 2" />
+        <img src="images/commercial/Untitled-design-_48_.webp" class="d-block w-100" alt="Wal Verde 92 - Image 2" />
       </div>
 
     </div>
@@ -73,218 +73,67 @@
 <!-- Project Info Summary -->
 <div class="container py-5">
   <div class="row text-center mb-4 border-bottom pb-3">
-    <div class="col-md-4"><strong>Area:</strong>465-3500 sqft</div>
+    <div class="col-md-4"><strong>Area:</strong>250-1400 sqft</div>
   </div>
   <div class="row text-center">
     <div class="col-md-4"><strong>Type:</strong> Affordable Projects</div>
     <div class="col-md-4"><strong>Status:</strong>Under Construction</div>
-    <div class="col-md-4"><strong>Location:</strong>New Gurgaon (NH-8) Projects</div>
+    <div class="col-md-4"><strong>Location:</strong> Golf Course Extension Road</div>
     <div class="col-md-4 mt-2"><strong>Booking Open:</strong> Yes</div>
   </div>
 </div>
 
-<section class="container py-5">
-  <h2 class="text-start mb-3">About SS Whitewater Gurgaon</h2>
-  <hr class="border border-warning border-2 opacity-75 mb-4">
-  <p><strong>SS Whitewater</strong> is one of the premier commercial projects in <strong>New Gurgaon</strong>, offering excellent investment opportunities. This mixed-use commercial development is strategically located at the heart of Gurgaon. If you're looking to invest in a thriving commercial hub, <strong>SS Whitewater Sector 90</strong> is the perfect opportunity waiting for you.</p>
-  <p><strong>SS Mall Sector 90</strong> is a game-changing project designed for investors looking to elevate their businesses. Located in Sector 90, <strong>SS Whitewater</strong> offers a prime location with unmatched connectivity on the main <strong>75-meter-wide road</strong>, adjacent to a multi-utility corridor.</p>
-  <p>This modern mixed-use development includes retail shops, a food court, a hypermarket, and a multiplex, offering three levels of shopping, anchor stores, and entertainment options. A dedicated level for restaurants, food courts, and cafes is also included, while the top floor houses a multiplex for moviegoers.</p>
-  <p>Spread across <strong>3.99 acres</strong> of land with a <strong>G+4 structure</strong>, this <strong>RERA-approved</strong> project is designed with an international façade, providing the largest frontage for maximum visibility. With double-height shops and ample space, it’s ideal for businesses to flourish.</p>
-  <p>The strategic location of <strong>SS Whitewater Sector 90</strong> offers unparalleled opportunities for businesses and investors. Located in a well-developed area, it provides seamless connectivity to the <strong>IMT Manesar</strong> and <strong><a href="https://www.larisarealtech.com/3-bhk-flats-in-dwarka-expressway/">Dwarka Expressway</a></strong>, making it easily accessible from all prominent locations in Gurgaon.</p>
-  <p>SS Whitewater is surrounded by luxury residential townships like <a href="https://www.larisarealtech.com/properties/ss-cendana-residences/"><strong>SS Cendana</strong></a>, SS Linden Floors, Ganga Nandaka, and SS Strada. Its proximity to residential sectors such as Sectors 83, 84, 85, and 86 will drive footfall from both old and new Gurgaon.</p>
-  <p><strong>SS Whitewater Sector 90 is an unbeatable investment opportunity</strong> for businesses and investors. Don’t miss out! For the best deals and services, get in touch with <a href="https://www.larisarealtech.com/">Larisa Realtech</a> at 99-1103-1102.</p>
-</section>
-
-<section class="container py-5">
-  <h2 class="text-start mb-3">About SS Group</h2>
-  <hr class="border border-warning border-2 opacity-75 mb-4">
-  <p><strong>SS Group</strong>, a renowned name in the real estate industry, has over 29 years of experience in developing landmark residential and commercial projects in <strong>Gurugram</strong>. The company has a proud legacy of successfully completed developments through a blend of financial, engineering, and design expertise.</p>
-  <p>SS Group focuses on creating people-driven developments while ensuring sustainability. With a dedicated team of architects and engineers, the group thrives on innovative designs, exceptional quality control, and creating sustainable projects that are both visually appealing and future-proof.</p>
-  <p>Some of their standout projects include <strong>The Hibiscus</strong>, <strong>SS Plaza</strong>, Southend, Aaron Ville, and The Lilac, to name a few.</p>
-</section>
-
-<section class="container py-5">
-  <h2 class="text-start mb-3">SS Whitewater Project Details</h2>
-  <hr class="border border-warning border-2 opacity-75 mb-4">
-
-  <div class="table-responsive">
-    <table class="table table-bordered table-striped">
-      <tbody>
-        <tr>
-          <td>Project Name</td>
-          <td>SS Whitewater</td>
-        </tr>
-        <tr>
-          <td>Builder Name</td>
-          <td>SS Group</td>
-        </tr>
-        <tr>
-          <td>Location</td>
-          <td>Sector 90, New Gurgaon</td>
-        </tr>
-        <tr>
-          <td>Project Type</td>
-          <td>Commercial Project</td>
-        </tr>
-        <tr>
-          <td>Unit Types</td>
-          <td>Retail Shops, Multiplex, Food Court</td>
-        </tr>
-        <tr>
-          <td>HRERA No.</td>
-          <td>08 OF 2024</td>
-        </tr>
-        <tr>
-          <td>Starting Price</td>
-          <td>75 Lakh*</td>
-        </tr>
-        <tr>
-          <td>Project Status</td>
-          <td>New Launch</td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</section>
-
-<section class="container py-5">
-  <h2 class="text-start mb-3">Key Features of SS Whitewater Sector 90</h2>
-  <hr class="border border-warning border-2 opacity-75 mb-4">
-  <ul>
-    <li><strong>SS Whitewater Sector 90</strong> is situated on a 75-meter-wide road, providing excellent visibility and accessibility.</li>
-    <li>Located directly on a multi-utility corridor for easy connectivity.</li>
-    <li>Quick access to the <strong>Dwarka Expressway</strong>, ensuring connectivity to all important locations in Gurgaon.</li>
-    <li>Well-connected from <strong>IMT Manesar</strong> and other key locations.</li>
-    <li>Easy access to <strong>NH-48</strong> for seamless travel.</li>
-    <li>Surrounded by premium residential townships like <strong>SS Cendana</strong>, SS Linden Floors, SS Strada, and more.</li>
-    <li>Proximity to residential sectors like 83, 84, 85, 86, and 90 in <strong>New Gurgaon</strong>.</li>
-    <li>Strategically located in a prime zone with developed infrastructure.</li>
-    <li>Easy connectivity to <strong>Sohna Road</strong>, <strong>SPR Road</strong>, and <strong>Golf Course Road Extension</strong> for seamless mobility.</li>
-    <li><strong>SS Whitewater</strong> is set in a prime area, offering great social infrastructure and investment potential.</li>
-  </ul>
-</section>
-
-
-    <section class="py-5 bg-light">
-        <div class="container">
-            <h2 class="mb-4 text-center" style="color: #ee771b;">SS Whitewater Exclusive Amenities</h2>
-            <hr class="mb-5 mx-auto" style="border-top: 2px solid #ee771b; width: 200px;">
-            <div class="row justify-content-center text-center">
-                <div class="col-md-3 mb-4">
-                    <img loading="lazy" decoding="async" width="80" height="74" src="https://www.larisarealtech.com/wp-content/uploads/2020/10/earthquakeresistance_png-min.png" class="img-fluid mb-2" alt="Earthquake Resistance" />
-                    <p class="mb-0">Earthquake Resistance</p>
-                </div>
-                <div class="col-md-3 mb-4">
-                    <img loading="lazy" decoding="async" width="80" height="74" src="https://www.larisarealtech.com/wp-content/uploads/2020/10/carparking_png-min.png" class="img-fluid mb-2" alt="Car Parking" />
-                    <p class="mb-0">Car Parking</p>
-                </div>
-                <div class="col-md-3 mb-4">
-                    <img loading="lazy" decoding="async" width="80" height="74" src="https://www.larisarealtech.com/wp-content/uploads/2020/10/atm_Png-Copy-min.png" class="img-fluid mb-2" alt="ATM" />
-                    <p class="mb-0">ATM</p>
-                </div>
-                <div class="col-md-3 mb-4">
-                    <img loading="lazy" decoding="async" width="80" height="74" src="https://www.larisarealtech.com/wp-content/uploads/2020/10/pollutionfree_png-min.png" class="img-fluid mb-2" alt="Pollution Free" />
-                    <p class="mb-0">Pollution Free</p>
-                </div>
-                <div class="col-md-3 mb-4">
-                    <img loading="lazy" decoding="async" width="80" height="74" src="https://www.larisarealtech.com/wp-content/uploads/2020/10/gameroom_Png-min-1.png" class="img-fluid mb-2" alt="CCTV Camera Surveillance" />
-                    <p class="mb-0">CCTV Camera Surveillance</p>
-                </div>
-                <div class="col-md-3 mb-4">
-                    <img loading="lazy" decoding="async" width="80" height="74" src="https://www.larisarealtech.com/wp-content/uploads/2020/10/JoggingTrack_png-min.png" class="img-fluid mb-2" alt="Lush green parks with running track" />
-                    <p class="mb-0">Lush green parks with running track</p>
-                </div>
-            </div>
-        </div>
-    </section>
-
-    <section class="py-5">
+<section class="py-5 bg-light">
   <div class="container">
-    <h2 class="mb-4">Why Should You Buy Or Invest in SS Whitewater?</h2>
-    <ul class="list-unstyled ps-3">
-<li>It is strategically located on a 75-metre-wide road.</li>
-<li>Two-sided open-corner plot with international façade design</li>
-<li>SS Mall Sector 90 offers double-height shops with the largest frontage with maximum visibility.</li>
-<li>It offers ample parking space (3-level basement parking).</li>
-<li>This commercial project is located in the prime location of New Gurgaon, which is a perfect location in terms of location and connectivity.</li>
-<li>It is situated on a multi-utility corridor with direct access to the Dwarka Expressway.</li>
-<li>This project is surrounded by various luxury townships like SS Cendana, SS Strada, SS Linden Floors, The Leaf, etc.</li>
-<li>Sector 90 has well-developed social infrastructure and excellent footfall.</li>
-<li>It is a perfect commercial project for investment due to its perfect location, excellent connectivity, growing infrastructure, etc.</li>
-<li>Easy access to the industrial hub (<a href="https://en.wikipedia.org/wiki/Manesar" target="_blank" rel="noopener">IMT Manesar</a>) and NH-48</li>
-<li>Proximity to residential sectors like 83, 84, 85, and 86 in New Gurgaon</li>
-<li>Direct connectivity from already-inhabited locations in Gurgaon</li>
-<li>Easy access to Hero Honda Chowk, Rajiv Chowk, etc.</li>
-    </ul>
+    <h2 class="mb-4 text-center">AIPL Joy Central, Sector 65 Gurgaon</h2>
+    <p>
+      AIPL Joy Central is a premium mixed-use commercial development located in Sector 65, Golf Course Extension Road, Gurgaon. Designed by DP Architects from Singapore, this iconic project blends high street retail, entertainment zones, and world-class office spaces. With excellent connectivity to Golf Course Road and Sohna Road, it offers a seamless experience for investors and visitors alike.
+    </p>
   </div>
 </section>
 
-<section class="container py-5">
-  <h2 class="text-start mb-3">SS Whitewater Price list</h2>
-  <hr class="border border-warning border-2 opacity-75 mb-4">
-
-  <div class="table-responsive">
-    <table class="table table-bordered table-striped">
-      <tbody>
-      <tr>
-<td style="text-align: center;" width="198"><strong>Floor</strong></td>
-<td style="text-align: center;" width="198"><strong>Price</strong></td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">Ground Floor</td>
-<td style="text-align: center;" width="198">35,000/ sq.ft.</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">First Floor</td>
-<td style="text-align: center;" width="198">21,000/ sq.ft.</td>
-</tr>
-<tr>
-<td style="text-align: center;" width="198">Second Floor</td>
-<td style="text-align: center;" width="198">17,500/ sq.ft.</td>
-</tr>   
-      </tbody>
-    </table>
-  </div>
-</section>
-
-<section class="bg-light py-5">
+<section class="py-5">
   <div class="container">
-    <h2 class="mb-4">SS Whitewater Sector 90 Payment Plan</h2>
-    <p>Explore the flexible and attractive <strong>SS Whitewater Payment Plan</strong> designed to suit every investor’s needs. This plan ensures a smooth and stress-free investment journey in one of the most promising <strong>commercial projects in New Gurgaon</strong>.</p>
+    <h3 class="mb-4">About AIPL Group</h3>
+    <p>
+      AIPL (Advance India Projects Limited) is a leading real estate developer with a legacy of over 30 years, known for delivering landmark commercial and residential developments across North India. With a customer-centric approach and commitment to quality, AIPL has delivered over 60 projects and continues to redefine urban lifestyles.
+    </p>
+  </div>
+</section>
 
-    <p><strong>Possession Linked Payment Plan</strong></p>
+<section class="py-5 bg-light">
+  <div class="container">
+    <h3 class="mb-4">Project Details</h3>
     <div class="table-responsive">
       <table class="table table-bordered">
-        <thead class="table-dark">
-          <tr>
-            <th>Milestone</th>
-            <th>Demand</th>
-          </tr>
-        </thead>
         <tbody>
           <tr>
-            <td>Booking Amount</td>
-            <td>₹5 Lacs</td>
+            <th>Project Name</th>
+            <td>AIPL Joy Central</td>
           </tr>
           <tr>
-            <td>On signing of the agreement</td>
-            <td>10% (less booking amount)</td>
+            <th>Location</th>
+            <td>Sector 65, Golf Course Extension Road, Gurgaon</td>
           </tr>
           <tr>
-            <td>Within 30 days from booking</td>
-            <td>20%</td>
+            <th>Developer</th>
+            <td>AIPL Group</td>
           </tr>
           <tr>
-            <td>Within 45 days from booking</td>
-            <td>10%</td>
+            <th>Project Type</th>
+            <td>High-Street Retail & Office Spaces</td>
           </tr>
           <tr>
-            <td>On application of OC Submission</td>
-            <td>30%</td>
+            <th>Architecture</th>
+            <td>DP Architects, Singapore</td>
           </tr>
           <tr>
-            <td>On Offer of Possession</td>
-            <td>30%</td>
+            <th>Status</th>
+            <td>Under Construction</td>
+          </tr>
+          <tr>
+            <th>Possession</th>
+            <td>Expected by 2025</td>
           </tr>
         </tbody>
       </table>
@@ -292,38 +141,223 @@
   </div>
 </section>
 
-<section class="py-5 bg-light">
-  <div class="container text-center">
-    <h2 class="mb-4">SS Whitewater Floor Plan – Sector 90</h2>
-    <hr class="mb-4" style="width: 80px; border-top: 2px solid #f60;">
-    <p class="mb-4">Take a closer look at the layout and planning of the retail and commercial spaces through the detailed <strong>SS Whitewater Floor Plan</strong>. Designed for optimal visibility and accessibility, this floor plan reflects smart infrastructure and modern design.</p>
-    <img src="images/commercial/2-4-768x411.jpg" alt="SS Whitewater Floor Plan Sector 90" class="img-fluid rounded shadow">
+<section class="py-5">
+  <div class="container">
+    <h3 class="mb-4">Key Features of AIPL Joy Central</h3>
+    <ul class="list-group">
+      <li class="list-group-item">Prime location on Golf Course Extension Road</li>
+      <li class="list-group-item">Designed by world-renowned DP Architects (Singapore)</li>
+      <li class="list-group-item">Low maintenance retail shops</li>
+      <li class="list-group-item">Exclusive food courts & restaurants</li>
+      <li class="list-group-item">Premium office spaces with modern amenities</li>
+      <li class="list-group-item">Double-height retail units with excellent visibility</li>
+      <li class="list-group-item">High footfall due to residential catchment area</li>
+    </ul>
   </div>
 </section>
 
 <section class="py-5 bg-light">
-  <div class="container text-center">
-    <h2 class="mb-4">SS Whitewater Location Map – Sector 90 Gurgaon</h2>
-    <hr class="mb-4" style="width: 80px; border-top: 2px solid #f60;">
-    <p class="mb-4">Discover the prime positioning of this commercial marvel with the <strong>SS Whitewater Location Map</strong>. Located in the heart of <strong>Sector 90 Gurgaon</strong>, this project enjoys excellent connectivity to NH-48, Dwarka Expressway, and IMT Manesar.</p>
-    <img src="images/commercial/Untitled-design-8.jpg" alt="SS Whitewater Sector 90 Location Map" class="img-fluid rounded shadow">
-  </div>
-</section>
-
-<section class="py-5 bg-light">
-  <div class="container text-center">
-    <h2 class="mb-4">SS Whitewater Site Plan – Sector 90 Gurgaon</h2>
-    <hr class="mb-4" style="width: 80px; border-top: 2px solid #f60;">
-    <p class="mb-4">Explore the detailed layout of this stunning commercial project through the <strong>SS Whitewater Site Plan</strong>. This plan showcases how retail shops, food courts, and multiplex areas are perfectly aligned for footfall and business success.</p>
-    <img src="images/commercial/Untitled-design-3.jpg" alt="SS Whitewater Gurgaon Site Plan" class="img-fluid rounded shadow">
+  <div class="container">
+    <h2 class="mb-4">Location Advantages of AIPL Joy Central Gurgaon</h2>
+    <hr class="border-warning border-2 opacity-100 w-25">
+    <ul class="list-unstyled">
+      <li>✅ Well-connected with SPR, Golf Course Extension Road & NH-8</li>
+      <li>✅ Easily accessible from Delhi and other parts of Delhi-NCR</li>
+      <li>✅ Easy accessibility and connectivity</li>
+      <li>✅ Three sides Open with frontage on 84m, 24m & 14m road</li>
+      <li>✅ Residential Catchment of 10,000+ Families</li>
+      <li>✅ The area is occupied by premium residences and commercial offices</li>
+      <li>✅ Opposite St. Xavier High School</li>
+    </ul>
   </div>
 </section>
 
 <section class="py-5">
+  <div class="container">
+    <h2 class="mb-4">AIPL Joy Central Amenities</h2>
+    <hr class="border-warning border-2 opacity-100 w-25">
+    <div class="row g-4">
+      
+      <!-- Amenity Item -->
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2020/10/medicalshop_Png-min.png" alt="Medical Shop" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>Medical Shop</strong></p>
+      </div>
+      
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2020/10/powerbackup_png-min.png" alt="24/7 Power Backup" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>24/7 Power Backup</strong></p>
+      </div>
+
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2020/10/atm_Png-Copy-min.png" alt="ATM" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>ATM</strong></p>
+      </div>
+
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2020/10/carparking_png-min.png" alt="Car Parking" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>Car Parking</strong></p>
+      </div>
+
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2020/10/lift_Png-min.png" alt="Lift" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>Lift</strong></p>
+      </div>
+
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2022/12/Restaurant.webp" alt="Restaurant" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>Restaurant</strong></p>
+      </div>
+
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2022/12/Retail-Shop.webp" alt="Retail Shop" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>Retail Shop</strong></p>
+      </div>
+
+      <div class="col-6 col-md-3 text-center">
+        <img src="https://www.larisarealtech.com/wp-content/uploads/2022/12/Office-Space.webp" alt="Office Space" class="img-fluid mb-2" width="150" height="140">
+        <p><strong>Office Space</strong></p>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="vc_separator wpb_content_element vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_left vc_separator_no_text vc_sep_color_grey">
+    <span class="vc_sep_holder vc_sep_holder_l"><span class="vc_sep_line"></span></span>
+    <span class="vc_sep_holder vc_sep_holder_r"><span class="vc_sep_line"></span></span>
+</div>
+</div></div></div></div></section>
+</section>
+
+<!-- Why Invest Section -->
+<section class="py-5 bg-light">
+  <div class="container">
+    <h2 class="mb-4 text-left">Why Should You Buy or Invest in AIPL Joy Central Gurgaon?</h2>
+    <hr style="border-color: #ee771b; height: 2px;">
+    <p>AIPL Joy Central, a prime commercial property in Sector 65, Gurgaon, is designed for those looking to <strong>invest in retail shops</strong> or make a profitable real estate investment. Located on the <strong>Golf Course Extension Road</strong>, this mixed-use development is perfect for those seeking a <strong>high-visibility commercial property</strong> with substantial footfall, ideal for both <strong>retailers</strong> and businesses. The well-connected location offers easy access to key routes such as <strong>SPR, NH-8</strong>, and <strong>Delhi</strong>.</p> <br>
+
+    <h3 class="h5 mb-3">Top Reasons to Buy or Invest in AIPL Joy Central Gurgaon:</h3>
+    <ul>
+                            <li><strong>3-Sided Open Plots</strong> offering maximum visibility and natural light, increasing the appeal of your business.</li>
+                            <li><strong>Double Height Shops</strong>, ensuring prominent visibility and attracting more foot traffic.</li>
+                            <li>Located on the <strong>Golf Course Extension Road</strong>, a prime commercial location in <strong>Gurgaon</strong>.</li>
+                            <li><strong>High Profile Location</strong>, ensuring a growing business ecosystem in close proximity to major landmarks.</li>
+                            <li>Seamless connectivity to key destinations, making this project highly accessible for businesses and customers alike.</li>
+                            <li>Blending international, national, and local brands to create a vibrant retail mix for young, urban consumers.</li>
+                            <li><strong>450 ft. Grand Frontage</strong> on the main 84m wide road, offering high exposure to your commercial property.</li>
+                            <li>State-of-the-art <strong>10-screen multiplex</strong> for a premium cinematic experience, driving footfall.</li>
+                            <li><strong>High-visibility restaurants</strong> for dining and social experiences, attracting visitors to the commercial hub.</li>
+                            <li>Surrounded by luxury <strong>residential developments</strong>, IT companies, and premium commercial properties.</li>
+                            <li>Dedicated space for F&B to cater to the evolving lifestyle of visitors.</li>
+                            <li><strong>4 acres of development</strong> situated amidst top residential projects, adding value to your investment.</li>
+                            <li>Ample parking provided with well-planned basements to support ease of access.</li>
+                        </ul>
+  </div>
+</section>
+
+<!-- Price List Section -->
+<section class="py-5">
+  <div class="container">
+    <h2 class="mb-4 text-left">AIPL Joy Central Price List</h2>
+    <hr style="border-color: #ee771b; height: 2px;">
+
+    <p class="mb-3">Explore the latest pricing for commercial shops in Raheja Delhi Mall – a project located in the bustling heart of Karol Bagh, offering excellent connectivity and guaranteed footfall.</p>
+
+    <div class="table-responsive">
+      <table class="table table-bordered table-striped">
+        <thead class="table-dark">
+          <tr>
+            <th>Type</th>
+            <th>Super Area (Sq.Ft.)</th>
+          </tr>
+        </thead>
+        <tbody>
+        <tr>
+                                        <td width="198">
+                                            <p style="text-align: center;"><strong>Floor</strong></p>
+                                        </td>
+                                        <td width="198">
+                                            <p style="text-align: center;"><strong>BSP per sq.ft.</strong></p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="198">
+                                            <p style="text-align: center;">Ground Floor</p>
+                                        </td>
+                                        <td width="198">
+                                            <p style="text-align: center;">₹ 33,000</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="198">
+                                            <p style="text-align: center;">First Floor</p>
+                                        </td>
+                                        <td width="198">
+                                            <p style="text-align: center;">₹ 19,800</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="198">
+                                            <p style="text-align: center;">Second Floor</p>
+                                        </td>
+                                        <td width="198">
+                                            <p style="text-align: center;">₹ 13,100</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="198">
+                                            <p style="text-align: center;">Third Floor</p>
+                                        </td>
+                                        <td width="198">
+                                            <p style="text-align: center;">Not For Sale (Multiplex)</p>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td width="198">
+                                            <p style="text-align: center;">Fourth Floor</p>
+                                        </td>
+                                        <td width="198">
+                                            <p style="text-align: center;">₹ 11,000</p>
+                                        </td>
+                                    </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <p class="mt-4"><strong>For Exclusive Offers on Raheja Mall Shops in Delhi, Call: <a href="tel:9911031102"> 92551 46117</a></strong></p>
+    <p class="mb-0">Located at Patel Nagar Metro Corridor, Raheja Delhi Mall offers ideal commercial investment opportunities for businesses seeking high visibility and growth.</p>
+  </div>
+</section>
+
+<section class="py-5 bg-light">
   <div class="container text-center">
-    <h2 class="mb-4">SS Whitewater Brochure PDF Download</h2>
-    <h6 class="mb-3">Download the official <strong>SS Whitewater E-Brochure PDF</strong> for detailed insights into the project layout, pricing, features, and more.</h6>
-    <a href="https://drive.google.com/file/d/1_10beJ0vcdjFfMR-YXfBkV5Z-egKQ-Ow/view" class="btn btn-primary" target="_blank" rel="nofollow">Download SS Whitewater Brochure</a>
+    <h2 class="mb-4">AIPL Joy Central Floor Plan</h2>
+    <hr class="mb-4" style="width: 80px; border-top: 2px solid #f60;">
+    <img src="images/commercial/Untitled-design-54.webp" alt="ROF Galleria 93 Site Plan" class="img-fluid rounded shadow">
+  </div>
+</section>
+
+<section class="py-5 bg-light">
+  <div class="container text-center">
+    <h2 class="mb-4">AIPL Joy Central Sector 65 Location Map</h2>
+    <hr class="mb-4" style="width: 80px; border-top: 2px solid #f60;">
+    <img src="images/commercial/Untitled-design-53.webp" alt="ROF Galleria 93 Site Plan" class="img-fluid rounded shadow">
+  </div>
+</section>
+
+<section class="py-5 bg-light">
+  <div class="container text-center">
+    <h2 class="mb-4">AIPL Joy Central Site Plan</h2>
+    <hr class="mb-4" style="width: 80px; border-top: 2px solid #f60;">
+    <img src="images/commercial/Untitled-design-51.webp" alt="ROF Galleria 93 Site Plan" class="img-fluid rounded shadow">
+  </div>
+</section>
+
+
+<section class="py-5">
+  <div class="container text-center">
+    <h2 class="mb-4">AIPL Joy Central Property E-Brochure</h2>
+    <a href="https://drive.google.com/file/d/1_uBgATjRooLQ-uhwB-sWBPeg6ItuSosv/view" class="btn btn-primary" target="_blank" rel="nofollow">Download Brochure</a>
   </div>
 </section>
 
@@ -332,4 +366,4 @@
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
 </body>
-</html>
+</html>  
